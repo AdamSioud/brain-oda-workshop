@@ -1,0 +1,3001 @@
+,product_id,product_idx,product_category_name_level_two
+0,29256,2163,
+1,30460,2354,
+2,8518,581,
+3,13216,853,
+4,8640,601,
+5,29257,2164,
+6,12940,844,
+7,29740,2257,
+8,8666,606,
+9,12370,837,
+0,12268,827,Käse & Käsealternativen
+0,29235,2162,
+0,6967,480,
+1,32468,2810,
+2,9308,669,Marjat
+3,98,20,Ferdigretter
+4,56,4,Kjeks
+5,440,61,Yoghurt
+6,137,29,Melk
+7,4375,313,Spekemat og salami
+8,5098,375,"Ketchup, sennep og dressinger"
+9,727,102,Middagsbaser
+10,735,106,Middagstilbehør
+11,1336,187,Yoghurt
+12,3523,267,Ost
+13,4117,294,Skalldyr
+14,556,75,"Ketchup, sennep og dressinger"
+15,550,73,Krydder og buljong
+16,93,18,Smør og margarin
+17,222,46,Melk
+18,585,83,Majones og tubepålegg
+19,99,21,Pizza
+20,957,140,Pølser
+21,2137,208,Sauser
+22,4957,366,Hermetisert sjømat
+23,993,146,Spesialoster
+24,51,2,Kjeks
+25,698,94,Pasta og nudler
+26,1804,198,Spesialoster
+27,4477,325,Kjøtt- og kyllingpålegg
+28,79,13,Asiatisk
+29,149,32,Frukt
+30,707,98,Sauser
+31,996,147,Ost
+32,1004,152,Oljer og eddik
+33,2698,251,Yoghurt
+34,3292,257,Frossen fisk
+35,3568,274,Kjøtt- og kyllingpålegg
+36,68,9,Dessert
+37,53,3,Kjeks
+38,76,12,Yoghurt
+39,127,24,Smør og margarin
+40,447,66,Fløte og rømmeprodukter
+41,552,74,"Ketchup, sennep og dressinger"
+42,997,148,Ost
+43,435,58,Ost
+44,947,136,Kjøttdeig og karbonadedeig
+45,95,19,Ferdigretter
+46,66,8,Knekkebrød
+47,434,57,Fløte og rømmeprodukter
+48,1002,151,Oljer og eddik
+49,737,107,Sauser
+50,753,118,Sauser
+51,1339,188,Ost
+52,1243,179,Ost
+53,2167,215,Ris og gryn
+54,3307,261,Fryst og langtidsholdbar
+55,1000,150,Syltetøy
+56,744,111,Middagsbaser
+57,430,54,Melk
+58,3148,254,Smør og margarin
+59,2350,238,Ost
+60,3667,281,Pølser
+61,836,132,Krydder og buljong
+62,3325,265,Majones og tubepålegg
+63,85,17,Dessert
+64,565,79,Majones og tubepålegg
+65,730,103,Pizza
+66,2515,246,Melk
+67,3880,289,Svin
+68,4300,309,Pizza
+69,429,53,Melk
+70,1615,194,Spesialoster
+71,3886,290,Svin
+72,214,43,Brød til middag
+73,589,84,Middagstilbehør
+74,74,10,Yoghurt
+75,1151,163,Knekkebrød
+76,1612,193,Knekkebrød
+77,2305,236,Ost
+78,4198,298,"Lomper, pølse- og hamburgerbrød"
+79,762,124,Middagsbaser
+80,816,127,Melk
+81,138,30,Grønnsaker
+82,446,65,Melk
+83,563,78,Krydder og buljong
+84,990,145,Ost
+85,1303,183,Fløte og rømmeprodukter
+86,2329,237,Ost
+87,132,26,Melk
+88,750,117,Middagsbaser
+89,1156,166,Knekkebrød
+90,2254,224,Fløte og rømmeprodukter
+91,4942,365,Yoghurt
+92,3655,278,Kjøttboller og karbonader
+93,3661,279,Kjøtt- og kyllingpålegg
+94,82,15,Yoghurt
+95,4501,326,Smør og margarin
+96,8484,577,Hermetisert frukt og grønt
+97,8158,539,Yoghurt
+98,8432,569,Fryst frukt og grønt
+99,8770,623,Hermetisert frukt og grønt
+100,4507,327,Ost
+101,6151,419,Krydder og buljong
+102,6379,459,Krydder og buljong
+103,7255,496,Taco og TexMex
+104,6538,466,Hermetisert frukt og grønt
+105,8140,534,Melk
+106,8420,568,Fryst frukt og grønt
+107,8732,616,Nøtter
+108,6118,413,Krydder og buljong
+109,6121,414,Krydder og buljong
+110,7369,505,Taco og TexMex
+111,8526,583,Sauser
+112,9359,677,Grønnsaker
+113,4423,317,Skalldyr
+114,5146,382,Smør og margarin
+115,5956,397,Pasta og nudler
+116,6190,425,Krydder og buljong
+117,1132,162,Melk
+118,5116,376,Smør og margarin
+119,200,38,Fryst og langtidsholdbar
+120,817,128,Yoghurt
+121,3664,280,Kjøtt- og kyllingpålegg
+122,58,5,Kjeks
+123,765,126,Middagsbaser
+124,2023,199,Ost
+125,2026,200,Krydder og buljong
+126,2299,235,Ost
+127,428,52,Fløte og rømmeprodukter
+128,759,122,Sauser
+129,1183,170,Gjær og hevemidler
+130,2125,205,Spekemat og salami
+131,2602,250,Spekemat og salami
+132,438,60,Ost
+133,1095,157,Middagsbaser
+134,1570,190,Asiatisk
+135,1699,195,Knekkebrød
+136,3697,285,Fløte og rømmeprodukter
+137,570,80,"Ketchup, sennep og dressinger"
+138,1128,159,Melk
+139,2377,241,Yoghurt
+140,3244,256,Pizza
+141,135,28,Ost
+142,185,37,Ost
+143,987,143,Hermetisert frukt og grønt
+144,732,104,Sauser
+145,754,119,Middagsbaser
+146,1155,165,Knekkebrød
+147,1723,196,Brød til middag
+148,3559,272,Pølser
+149,7261,498,Taco og TexMex
+150,8476,575,Hermetisert frukt og grønt
+151,8128,532,Dessert
+152,8155,538,Yoghurt
+153,8900,642,Hermetisert frukt og grønt
+154,4453,322,Ost
+155,4963,368,Ost
+156,6562,468,"Ketchup, sennep og dressinger"
+157,8648,603,Pasta og nudler
+158,6073,406,Krydder og buljong
+159,4786,354,Ost
+160,4975,370,Majones og tubepålegg
+161,6181,424,Krydder og buljong
+162,6196,426,Krydder og buljong
+163,6244,439,Krydder og buljong
+164,9860,709,Hermetisert frukt og grønt
+165,10016,734,Fløte og rømmeprodukter
+166,10697,748,Sauser
+167,3859,287,Kjøttdeig og karbonadedeig
+168,4999,372,Middagstilbehør
+169,7171,490,Dessert
+170,1032,153,"Ketchup, sennep og dressinger"
+171,1082,156,Krydder og buljong
+172,5122,377,Melk
+173,144,31,Fløte og rømmeprodukter
+174,717,100,Middagsbaser
+175,445,64,Ost
+176,2158,212,Ris og gryn
+177,3541,269,Pølser
+178,3304,260,Fryst og langtidsholdbar
+179,5467,385,Asiatisk
+180,243,48,Frossen fisk
+181,519,70,Bacon og smårettskinke
+182,561,77,Krydder og buljong
+183,741,109,Sauser
+184,2164,214,Ris og gryn
+185,2224,218,Fløte og rømmeprodukter
+186,3556,271,Kjøtt- og kyllingpålegg
+187,221,45,Fløte og rømmeprodukter
+188,3313,262,Fryst og langtidsholdbar
+189,442,63,Yoghurt
+190,441,62,Yoghurt
+191,757,121,Middagsbaser
+192,65,7,Knekkebrød
+193,84,16,Dessert
+194,559,76,"Ketchup, sennep og dressinger"
+195,956,139,Pølser
+196,745,112,Middagsbaser
+197,984,141,Ferdigretter
+198,1244,180,Ost
+199,4654,339,Kjøtt- og kyllingpålegg
+200,166,34,Ost
+201,949,137,Kjøttdeig og karbonadedeig
+202,3319,264,Fryst og langtidsholdbar
+203,7264,499,Taco og TexMex
+204,7666,516,Asiatisk
+205,8654,604,Taco og TexMex
+206,9851,706,Hermetisert frukt og grønt
+207,10957,772,Asiatisk
+208,4879,363,Ost
+209,7252,495,Taco og TexMex
+210,8722,615,Asiatisk
+211,8234,543,Ost
+212,8816,636,Yoghurt
+213,9437,694,Frukt
+214,2485,244,Dessert
+215,5533,386,Krydder og buljong
+216,8578,589,Asiatisk
+217,9932,726,Spesialoster
+218,6319,449,Middagsbaser
+219,6337,453,Pasta og nudler
+220,2239,221,Melk
+221,4558,334,Kjøtt- og kyllingpålegg
+222,2371,240,Yoghurt
+223,4657,340,Spekemat og salami
+224,211,41,Pizza
+225,2131,206,Sauser
+226,2269,228,Ost
+227,213,42,Pizza
+228,695,93,Pasta og nudler
+229,1154,164,Knekkebrød
+230,2536,247,Bacon og smårettskinke
+231,202,39,Fryst og langtidsholdbar
+232,989,144,Ost
+233,733,105,Sauser
+234,2233,220,Fløte og rømmeprodukter
+235,4543,332,Spekemat og salami
+236,4285,307,Pizza
+237,690,90,Pasta og nudler
+238,258,50,Taco og TexMex
+239,837,133,Krydder og buljong
+240,4204,299,"Lomper, pølse- og hamburgerbrød"
+241,3298,258,Skalldyr
+242,4528,329,Ost
+243,545,71,"Ketchup, sennep og dressinger"
+244,64,6,Knekkebrød
+245,4684,343,Kjøttboller og karbonader
+246,1168,168,Asiatisk
+247,2227,219,Fløte og rømmeprodukter
+248,2209,217,"Frø, nøtter og tørket frukt"
+249,3670,282,Kjøtt- og kyllingpålegg
+250,4267,303,Skalldyr
+251,5800,388,Knekkebrød
+252,6328,451,Middagsbaser
+253,8468,572,Asiatisk
+254,9434,693,Grønnsaker
+255,9476,699,Grønnsaker
+256,9920,723,Asiatisk
+257,9935,727,Spesialoster
+258,4738,349,Kjøttboller og karbonader
+259,6211,431,Krydder og buljong
+260,7132,487,Taco og TexMex
+261,6154,420,Krydder og buljong
+262,6961,479,Knekkebrød
+263,7135,488,Taco og TexMex
+264,8143,535,Melk
+265,8766,622,Smør og margarin
+266,9947,729,Plantebasert drikke
+267,8807,634,Hermetisert frukt og grønt
+268,9929,725,Spesialoster
+269,12133,805,Yoghurt
+270,6049,402,Krydder og buljong
+271,9392,684,Grønnsaker
+272,8969,647,Smør og margarin
+273,8240,544,Ost
+274,9923,724,Asiatisk
+275,10709,752,Middagsbaser
+276,4816,356,Ost
+277,6241,438,Krydder og buljong
+278,6385,461,Krydder og buljong
+279,1214,177,Ost
+280,2278,230,Ost
+281,4297,308,Pizza
+282,701,96,Pasta og nudler
+283,1234,178,Fløte og rømmeprodukter
+284,2161,213,Ris og gryn
+285,2068,204,Knekkebrød
+286,2287,232,Ost
+287,2260,226,Yoghurt
+288,4411,314,Frossen fisk
+289,3586,277,Smør og margarin
+290,5125,378,Yoghurt
+291,456,69,Ost
+292,548,72,Asiatisk
+293,3553,270,Kjøtt- og kyllingpålegg
+294,3535,268,Yoghurt
+295,4342,311,Frossen fisk
+296,2470,243,Fryst og langtidsholdbar
+297,691,91,Middagsbaser
+298,763,125,Sauser
+299,1498,189,Pasta og nudler
+300,134,27,Melk
+301,749,116,Sauser
+302,925,135,Nøtter
+303,4150,297,"Kylling, kalkun og and"
+304,4591,335,Spekemat og salami
+305,125,23,Smør og margarin
+306,433,56,Fløte og rømmeprodukter
+307,747,114,Krydder og buljong
+308,2044,203,Middagsbaser
+309,2293,234,Ost
+310,5143,381,Smør og margarin
+311,8852,640,Ris og gryn
+312,10745,761,Pizza
+313,5845,391,Middagstilbehør
+314,5848,392,Middagstilbehør
+315,6940,476,Knekkebrød
+316,6079,407,Krydder og buljong
+317,8346,563,Syltetøy
+318,9440,695,Grønnsaker
+319,5998,399,Pasta og nudler
+320,6094,410,Krydder og buljong
+321,7384,506,Krydder og buljong
+322,7459,508,Pasta og nudler
+323,8306,557,"Frø, nøtter og tørket frukt"
+324,4768,352,Spekemat og salami
+325,1212,175,Ost
+326,716,99,Middagsbaser
+327,2143,210,Sauser
+328,1246,181,Ost
+329,240,47,Pizza
+330,448,67,Fløte og rømmeprodukter
+331,746,113,Middagsbaser
+332,335,51,Hermetisert frukt og grønt
+333,600,86,Oljer og eddik
+334,1131,161,Melk
+335,1579,192,"Ketchup, sennep og dressinger"
+336,4369,312,Spesialoster
+337,3301,259,Skalldyr
+338,4276,304,Pizza
+339,4279,305,Pizza
+340,452,68,Smør og margarin
+341,742,110,Sauser
+342,1193,171,Plantebasert drikke
+343,1324,186,Fløte og rømmeprodukter
+344,2140,209,Sauser
+345,4534,331,Kjøtt- og kyllingpålegg
+346,4312,310,Mat og drikke
+347,5389,383,Middagsbaser
+348,582,81,Krydder og buljong
+349,840,134,Yoghurt
+350,755,120,Sauser
+351,1038,154,Knekkebrød
+352,985,142,Middagsbaser
+353,1213,176,Spesialoster
+354,2134,207,Sauser
+355,2248,222,Ost
+356,4819,357,Majones og tubepålegg
+357,6208,430,Krydder og buljong
+358,6382,460,Krydder og buljong
+359,7051,482,Pasta og nudler
+360,7747,520,Asiatisk
+361,6592,470,Pizza
+362,7597,512,Krydder og buljong
+363,8692,611,Dessert
+364,9941,728,Spesialoster
+365,9431,692,Frukt
+366,10688,745,Sauser
+367,4777,353,Spekemat og salami
+368,5827,390,Knekkebrød
+369,4258,302,Brød til middag
+370,5854,394,Middagstilbehør
+371,6205,429,Krydder og buljong
+372,5140,380,Smør og margarin
+373,5959,398,Pasta og nudler
+374,6310,448,Ferdigretter
+375,7333,501,Supper
+376,3241,255,Fryst og langtidsholdbar
+377,8348,564,Syltetøy
+378,8954,645,Taco og TexMex
+379,2584,249,Spekemat og salami
+380,8906,644,Frossen fisk
+381,6142,417,Krydder og buljong
+382,7366,504,Taco og TexMex
+383,6055,403,Krydder og buljong
+384,6334,452,Middagsbaser
+385,1096,158,Pasta og nudler
+386,821,130,Yoghurt
+387,80,14,Yoghurt
+388,210,40,Middagstilbehør
+389,1321,185,Yoghurt
+390,2257,225,Melk
+391,4282,306,Pizza
+392,184,36,Frukt
+393,431,55,Ost
+394,2041,202,Knekkebrød
+395,4210,300,"Lomper, pølse- og hamburgerbrød"
+396,4414,315,Majones og tubepålegg
+397,437,59,Melk
+398,818,129,Yoghurt
+399,1167,167,"Ketchup, sennep og dressinger"
+400,583,82,Majones og tubepålegg
+401,700,95,Middagsbaser
+402,75,11,Dessert
+403,738,108,Sauser
+404,2032,201,"Ketchup, sennep og dressinger"
+405,998,149,Majones og tubepålegg
+406,2146,211,Sauser
+407,2461,242,Yoghurt
+408,3574,275,Kjøttboller og karbonader
+409,723,101,Middagstilbehør
+410,830,131,Nøtter
+411,1129,160,Melk
+412,4660,341,Bacon og smårettskinke
+413,4426,318,Pizza
+414,4435,319,Ost
+415,6238,437,Krydder og buljong
+416,5128,379,Yoghurt
+417,7798,523,Oljer og eddik
+418,8642,602,Hermetisert frukt og grønt
+419,8302,555,"Frø, nøtter og tørket frukt"
+420,8504,580,Krydder og buljong
+421,4849,360,Spekemat og salami
+422,9917,722,Asiatisk
+423,10673,744,Krydder og buljong
+424,4525,328,"Ketchup, sennep og dressinger"
+425,8250,548,Smør og margarin
+426,8278,552,Fryst frukt og grønt
+427,9449,697,Grønnsaker
+428,8813,635,Yoghurt
+429,11593,785,"Lomper, pølse- og hamburgerbrød"
+430,10799,767,Salat og kål
+431,10960,773,Asiatisk
+432,10969,774,Asiatisk
+433,4978,371,Majones og tubepålegg
+434,6307,447,Ferdigmikser
+435,6550,467,Dessert
+436,8534,586,Taco og TexMex
+437,9875,712,Kjeks
+438,9881,713,Sauser
+439,10700,749,Sauser
+440,2251,223,Ost
+441,2275,229,Ost
+442,1741,197,Smør og margarin
+443,2551,248,Sauser
+444,1209,174,Kjøtt- og kyllingpålegg
+445,3142,252,Smør og margarin
+446,748,115,Sauser
+447,2284,231,Spesialoster
+448,3565,273,Kjøtt- og kyllingpålegg
+449,4141,296,Pizza
+450,4666,342,Kjøtt- og kyllingpålegg
+451,4888,364,Fiskekaker og fiskepudding
+452,177,35,Ost
+453,1306,184,Fløte og rømmeprodukter
+454,1172,169,"Ketchup, sennep og dressinger"
+455,2497,245,Pasta og nudler
+456,3316,263,Fryst og langtidsholdbar
+457,3487,266,Taco og TexMex
+458,3688,283,Melk
+459,5437,384,Sauser
+460,693,92,Pasta og nudler
+461,761,123,Middagsbaser
+462,220,44,Smør og margarin
+463,1205,172,Fløte og rømmeprodukter
+464,4531,330,Majones og tubepålegg
+465,254,49,Nøtter
+466,1039,155,"Frø, nøtter og tørket frukt"
+467,2263,227,Yoghurt
+468,4552,333,Spekemat og salami
+469,3853,286,Kjøttdeig og karbonadedeig
+470,130,25,Smør og margarin
+471,595,85,"Ketchup, sennep og dressinger"
+472,602,87,"Ketchup, sennep og dressinger"
+473,604,88,Oljer og eddik
+474,705,97,Middagsbaser
+475,117,22,Smør og margarin
+476,161,33,Ost
+477,639,89,Majones og tubepålegg
+478,1576,191,Asiatisk
+479,1280,182,Sauser
+480,2200,216,Ost
+481,2290,233,Ost
+482,2359,239,Oljer og eddik
+483,4132,295,Frossen fisk
+484,8119,529,Yoghurt
+485,8146,536,Dessert
+486,9854,707,Hermetisert frukt og grønt
+487,8795,631,"Kylling, kalkun og and"
+488,11449,779,Hermetisert frukt og grønt
+489,4450,321,Pizza
+490,6145,418,Krydder og buljong
+491,7063,484,Knekkebrød
+492,6574,469,"Ketchup, sennep og dressinger"
+493,8598,593,Nøtter
+494,9284,664,Salat og kål
+495,9260,658,Frukt
+496,8750,619,Hermetisert frukt og grønt
+497,8050,525,Yoghurt
+498,9296,667,Grønnsaker
+499,11455,780,Taco og TexMex
+500,3913,293,Svin
+501,5941,396,Brød til middag
+502,7600,513,Krydder og buljong
+503,8528,584,Taco og TexMex
+504,9215,653,Grønnsaker
+505,9212,652,Grønnsaker
+506,9281,663,Grønnsaker
+507,9371,680,Grønnsaker
+508,10691,746,Sauser
+509,10918,770,Asiatisk
+510,7174,491,Dessert
+511,8290,553,Oljer og eddik
+512,8242,545,Ost
+513,9248,656,Grønnsaker
+514,8558,588,Fryst og langtidsholdbar
+515,10061,736,Fryst og langtidsholdbar
+516,11080,776,Fryst og langtidsholdbar
+517,9770,702,Ris og gryn
+518,9884,714,Sauser
+519,6220,433,Krydder og buljong
+520,6160,421,Krydder og buljong
+521,8474,574,Hermetisert frukt og grønt
+522,8472,573,Pasta og nudler
+523,8861,641,Hermetisert sjømat
+524,9572,701,Grønnsaker
+525,3898,292,Svin
+526,4621,337,Spekemat og salami
+527,6199,427,Krydder og buljong
+528,6361,455,Middagsbaser
+529,4750,351,Kjøtt- og kyllingpålegg
+530,6175,423,Krydder og buljong
+531,8292,554,"Frø, nøtter og tørket frukt"
+532,8336,561,Pasta og nudler
+533,9989,732,Sauser
+534,9368,679,Grønnsaker
+535,8798,632,"Kylling, kalkun og and"
+536,10670,743,Krydder og buljong
+537,6499,465,Ferdigretter
+538,9404,687,Grønnsaker
+539,10667,742,Krydder og buljong
+540,10802,768,Grønnsaker
+541,12364,836,Yoghurt
+542,13081,849,"Lomper, pølse- og hamburgerbrød"
+543,14071,897,Yoghurt
+544,16537,997,Plantebasert drikke
+545,16543,998,Knekkebrød
+546,16041,967,"Ketchup, sennep og dressinger"
+547,13798,892,Spekemat og salami
+548,16413,993,Pasta og nudler
+549,16621,1006,"Lomper, pølse- og hamburgerbrød"
+550,15474,955,Knekkebrød
+551,16209,976,Pasta og nudler
+552,12178,812,Melk
+553,13603,877,Ferdigretter
+554,16125,969,Kjøtt- og kyllingpålegg
+555,16470,994,Fiskekaker og fiskepudding
+556,16618,1005,"Lomper, pølse- og hamburgerbrød"
+557,12190,813,Melk
+558,13969,894,Krydder og buljong
+559,16398,991,Ris og gryn
+560,15106,925,Ferdigretter
+561,15618,959,Pizza
+562,17722,1047,Melk
+563,14224,903,Krydder og buljong
+564,15154,927,Ferdigretter
+565,15223,937,Pølser
+566,13222,854,Dessert
+567,12262,826,Ost
+568,15342,952,Melk
+569,17887,1063,Pølser
+570,17902,1065,Pølser
+571,13594,875,Salat og kål
+572,16350,985,Middagsbaser
+573,18253,1081,Bacon og smårettskinke
+574,22960,1293,Pølser
+575,17209,1032,Middagstilbehør
+576,18598,1100,Spesialoster
+577,17458,1042,Taco og TexMex
+578,20371,1196,Krydder og buljong
+579,17737,1051,Fløte og rømmeprodukter
+580,16723,1009,Frukt
+581,19048,1125,Grønnsaker
+582,20293,1186,Hermetisert frukt og grønt
+583,18223,1075,Ris og gryn
+584,18421,1090,Lam og vilt
+585,18151,1071,"Kylling, kalkun og and"
+586,20359,1194,Pasta og nudler
+587,20302,1188,"Frø, nøtter og tørket frukt"
+588,20593,1200,Krydder og buljong
+589,8710,613,Oljer og eddik
+590,20608,1203,Krydder og sauser
+591,18409,1087,Fersk fisk
+592,19627,1158,Grønnsaker
+593,19723,1178,Urter og spirer
+594,19072,1127,Grønnsaker
+595,21667,1246,Brød til middag
+596,20227,1180,Pølser
+597,19591,1155,Iskrem i boks
+598,19618,1157,Frukt
+599,19678,1164,Frukt
+600,17767,1061,Urter og spirer
+601,18160,1072,Sauser
+602,18178,1074,"Kylling, kalkun og and"
+603,20254,1181,Sauser
+604,9218,654,Grønnsaker
+605,10040,735,Grønnsaker
+606,7066,485,Knekkebrød
+607,7168,489,Kjeks
+608,7177,492,Dessert
+609,8248,547,Ost
+610,8676,607,Dessert
+611,9335,674,Frukt
+612,8764,621,Smør og margarin
+613,8849,639,Ris og gryn
+614,4438,320,Yoghurt
+615,6958,478,Knekkebrød
+616,9494,700,Nøtter
+617,4726,346,Spesialoster
+618,5860,395,Oljer og eddik
+619,6214,432,Krydder og buljong
+620,6376,458,Krydder og buljong
+621,6250,441,Krydder og buljong
+622,8244,546,Ost
+623,8776,626,Hermetisert frukt og grønt
+624,9911,720,Asiatisk
+625,10739,759,Middagsbaser
+626,10927,771,Hermetisert frukt og grønt
+627,10643,739,"Ketchup, sennep og dressinger"
+628,14359,910,Middagsbaser
+629,12259,825,Ost
+630,16395,990,Spesialoster
+631,16582,1003,Asiatisk
+632,13423,869,Kjøttdeig og karbonadedeig
+633,15202,934,Pasta og nudler
+634,9356,676,Salat og kål
+635,15262,948,Storfe og kalv
+636,15306,950,Kjøtt- og kyllingpålegg
+637,13375,865,Fryst og langtidsholdbar
+638,11446,778,Hermetisert frukt og grønt
+639,12106,803,Fløte og rømmeprodukter
+640,12292,830,Ost
+641,17170,1031,Frossen fisk
+642,13378,866,Fryst og langtidsholdbar
+643,14356,909,Middagsbaser
+644,12994,846,"Frø, nøtter og tørket frukt"
+645,14227,904,Asiatisk
+646,12325,834,Dessert
+647,12340,835,Fløte og rømmeprodukter
+648,14320,907,Dessert
+649,15244,942,Lam og vilt
+650,18349,1084,Kjøttdeig og karbonadedeig
+651,18616,1101,Spesialoster
+652,19696,1170,Grønnsaker
+653,20386,1197,Krydder og buljong
+654,21259,1220,Ost
+655,18922,1119,Asiatisk
+656,19315,1134,Ost
+657,22750,1282,Ferdigretter
+658,19444,1140,Grønnsaker
+659,19693,1169,Grønnsaker
+660,21565,1231,Yoghurt
+661,9398,686,Grønnsaker
+662,16717,1008,Fryst frukt og grønt
+663,16993,1022,Fryst og langtidsholdbar
+664,21001,1215,Asiatisk
+665,18439,1095,Lam og vilt
+666,19456,1144,Grønnsaker
+667,17755,1057,Urter og spirer
+668,18232,1077,"Frø, nøtter og tørket frukt"
+669,22819,1285,Frukt
+670,23092,1296,Frukt
+671,18412,1088,Lam og vilt
+672,18676,1109,Spesialoster
+673,18679,1110,Spesialoster
+674,19687,1167,Frukt
+675,20311,1189,"Frø, nøtter og tørket frukt"
+676,22843,1288,Fryst frukt og grønt
+677,18394,1086,Yoghurt
+678,18250,1080,Kjøttboller og karbonader
+679,20356,1193,Pasta og nudler
+680,19135,1129,"Frø, nøtter og tørket frukt"
+681,21928,1260,Spekemat og salami
+682,22498,1279,Spesialoster
+683,8716,614,Middagstilbehør
+684,8134,533,Dessert
+685,8342,562,"Lomper, pølse- og hamburgerbrød"
+686,8590,591,Nøtter
+687,8466,571,Hermetisert frukt og grønt
+688,10790,765,Salat og kål
+689,4870,362,Ferdigretter
+690,6070,405,Krydder og buljong
+691,8104,528,Melk
+692,9329,673,Frukt
+693,9857,708,Hermetisert frukt og grønt
+694,4420,316,Spekemat og salami
+695,4846,359,Bacon og smårettskinke
+696,6364,456,Sauser
+697,6253,442,Asiatisk
+698,6745,475,Hermetisert frukt og grønt
+699,8125,531,Dessert
+700,9986,731,"Frø, nøtter og tørket frukt"
+701,9902,718,Middagsbaser
+702,10760,764,Middagsbaser
+703,3874,288,Kjøttdeig og karbonadedeig
+704,7297,500,Sauser
+705,6274,443,Krydder og buljong
+706,9347,675,Frukt
+707,8772,624,Hermetisert frukt og grønt
+708,4474,324,Spesialoster
+709,3694,284,Melk
+710,7729,517,Krydder og buljong
+711,7258,497,Taco og TexMex
+712,7585,511,Krydder og buljong
+713,10724,757,Middagstilbehør
+714,10757,763,Sauser
+715,12079,800,Melk
+716,15891,964,Knekkebrød
+717,13327,860,Ris og gryn
+718,12229,818,Spesialoster
+719,15166,931,Urter og spirer
+720,14398,914,Krydder og buljong
+721,14401,915,Krydder og buljong
+722,16591,1004,"Frø, nøtter og tørket frukt"
+723,15723,961,Pizza
+724,17395,1039,"Lomper, pølse- og hamburgerbrød"
+725,13426,870,Pølser
+726,13768,888,Asiatisk
+727,9407,688,Grønnsaker
+728,12928,842,Middagstilbehør
+729,14077,899,Yoghurt
+730,16071,968,Ost
+731,16203,974,Spesialoster
+732,8460,570,Pasta og nudler
+733,16299,978,Bacon og smårettskinke
+734,16561,1000,Pizza
+735,15160,929,Urter og spirer
+736,16014,966,Hamburgere
+737,16185,971,Frossen fisk
+738,14332,908,Dessert
+739,12031,795,Yoghurt
+740,14572,921,Fryst og langtidsholdbar
+741,14218,902,Asiatisk
+742,17068,1026,Kjøtt- og kyllingpålegg
+743,16987,1021,Fryst og langtidsholdbar
+744,20224,1179,Hamburgere
+745,16227,977,Grønnsaker
+746,22354,1270,Iskrem i boks
+747,19336,1135,Middagsbaser
+748,19690,1168,Frukt
+749,17731,1049,Melk
+750,22867,1289,Fryst frukt og grønt
+751,22969,1294,Pølser
+752,16999,1023,Spekemat og salami
+753,19708,1174,Grønnsaker
+754,18661,1106,Spesialoster
+755,19567,1150,Iskrem i boks
+756,19663,1161,Smør og margarin
+757,18628,1102,Spesialoster
+758,16975,1020,Kjeks
+759,19630,1159,Grønnsaker
+760,22741,1281,Kjøtt- og kyllingpålegg
+761,19684,1166,Frukt
+762,17764,1060,Urter og spirer
+763,21658,1245,Melk
+764,9323,672,Grønnsaker
+765,22807,1284,Svin
+766,7234,494,Dessert
+767,8606,595,Nøtter
+768,8831,638,Ris og gryn
+769,9812,703,Plantebasert drikke
+770,10703,750,Sauser
+771,3145,253,Smør og margarin
+772,7426,507,Asiatisk
+773,9272,661,Grønnsaker
+774,8312,559,"Frø, nøtter og tørket frukt"
+775,10715,754,Middagsbaser
+776,6355,454,Middagsbaser
+777,4795,355,Ost
+778,6952,477,Knekkebrød
+779,7768,521,"Ketchup, sennep og dressinger"
+780,6742,474,Hermetisert frukt og grønt
+781,8742,617,Oljer og eddik
+782,8167,540,Trening
+783,8252,549,Smør og margarin
+784,8352,566,Mat og drikke
+785,8620,597,Sauser
+786,9896,717,Middagsbaser
+787,8550,587,Pasta og nudler
+788,8774,625,Hermetisert frukt og grønt
+789,9137,651,Taco og TexMex
+790,9257,657,Grønnsaker
+791,9269,660,Bær
+792,8152,537,Yoghurt
+793,8828,637,Hermetisert frukt og grønt
+794,9221,655,Grønnsaker
+795,9377,682,Grønnsaker
+796,11596,786,"Lomper, pølse- og hamburgerbrød"
+797,10649,741,Asiatisk
+798,12022,793,Fløte og rømmeprodukter
+799,13789,891,Skalldyr
+800,15250,944,Kjøttdeig og karbonadedeig
+801,13054,848,Ris og gryn
+802,12922,841,Middagstilbehør
+803,15375,953,Spekemat og salami
+804,13750,885,Fryst og langtidsholdbar
+805,12277,828,Spesialoster
+806,12316,833,Spesialoster
+807,16570,1001,Plantebasert drikke
+808,15753,962,Fryst og langtidsholdbar
+809,17086,1028,Kjøtt- og kyllingpålegg
+810,12430,838,Svin
+811,13261,857,Salat og kål
+812,11494,782,"Frø, nøtter og tørket frukt"
+813,12076,799,Yoghurt
+814,16510,996,Fryst frukt og grønt
+815,13171,851,Middagsbaser
+816,13372,864,Fryst og langtidsholdbar
+817,13669,881,Kjøttdeig og karbonadedeig
+818,13753,886,Fryst og langtidsholdbar
+819,10637,738,"Ketchup, sennep og dressinger"
+820,12052,798,Yoghurt
+821,14230,905,Pasta og nudler
+822,13051,847,Taco og TexMex
+823,15226,938,Pølser
+824,10616,737,Pizza
+825,16302,979,Middagsbaser
+826,18166,1073,Sauser
+827,22738,1280,Pølser
+828,16786,1011,Ferdigretter
+829,21472,1228,Pizza
+830,21640,1241,Ferdigretter
+831,20287,1185,Middagsbaser
+832,20980,1214,Asiatisk
+833,17254,1035,Middagstilbehør
+834,19675,1163,Frukt
+835,21922,1259,Spekemat og salami
+836,18673,1108,Ost
+837,18478,1096,Kjøtt- og kyllingpålegg
+838,19459,1145,Grønnsaker
+839,21466,1226,Ost
+840,22219,1263,Hermetisert frukt og grønt
+841,16831,1014,Pølser
+842,19570,1151,Iskrem i boks
+843,18241,1078,Pølser
+844,18271,1083,Kjøttboller og karbonader
+845,22489,1277,Salat og kål
+846,20638,1205,Middagsbaser
+847,20950,1213,Fryst frukt og grønt
+848,9428,691,Salat og kål
+849,11587,784,Sauser
+850,6112,412,Krydder og buljong
+851,8594,592,Hermetisert frukt og grønt
+852,9026,649,Pølser
+853,6235,436,Krydder og buljong
+854,6295,446,Middagsbaser
+855,7648,515,Krydder og buljong
+856,9980,730,Fryst og langtidsholdbar
+857,9893,716,Oljer og eddik
+858,4735,348,Bacon og smårettskinke
+859,6232,435,Krydder og buljong
+860,5077,374,Spesialoster
+861,7060,483,Knekkebrød
+862,6082,408,Krydder og buljong
+863,6430,463,Middagsbaser
+864,7354,502,Taco og TexMex
+865,8782,629,Pizza
+866,8350,565,Syltetøy
+867,8488,578,Hermetisert frukt og grønt
+868,8588,590,Knekkebrød
+869,8314,560,"Frø, nøtter og tørket frukt"
+870,9314,670,Frukt
+871,9395,685,Grønnsaker
+872,11458,781,Taco og TexMex
+873,11959,788,Svin
+874,10694,747,Sauser
+875,10742,760,Pizza
+876,3889,291,Svin
+877,4633,338,Pizza
+878,6247,440,Krydder og buljong
+879,8044,524,Melk
+880,8276,551,Spekemat og salami
+881,8608,596,Hermetisert frukt og grønt
+882,9863,710,Hermetisert frukt og grønt
+883,12244,822,Ost
+884,13354,861,Pizza
+885,12298,832,Ost
+886,15097,922,Ferdigretter
+887,15163,930,Urter og spirer
+888,15579,956,Asiatisk
+889,14386,912,Pizza
+890,16374,987,Fryst frukt og grønt
+891,15232,940,Pølser
+892,13645,879,Ferdigretter
+893,14212,901,Spesialoster
+894,16173,970,Frossen fisk
+895,13783,889,Asiatisk
+896,12004,790,Melk
+897,16314,982,Fryst og langtidsholdbar
+898,15945,965,Pizza
+899,13657,880,Yoghurt
+900,12199,815,Yoghurt
+901,14263,906,Ost
+902,12436,839,Lam og vilt
+903,13732,884,Grønnsaker
+904,5062,373,"Ketchup, sennep og dressinger"
+905,9320,671,Grønnsaker
+906,14467,918,Pizza
+907,12016,792,Melk
+908,12202,816,Yoghurt
+909,17524,1045,Smør og margarin
+910,19699,1171,Grønnsaker
+911,18019,1068,Fiskekaker og fiskepudding
+912,16972,1019,Fryst og langtidsholdbar
+913,19006,1124,Salat og kål
+914,21643,1242,Frukt
+915,18430,1093,Lam og vilt
+916,16924,1017,Ferdigretter
+917,18847,1115,Knekkebrød
+918,20257,1182,Hermetisert frukt og grønt
+919,18016,1067,Fiskekaker og fiskepudding
+920,17239,1033,Ris og gryn
+921,18757,1111,Pizza
+922,20917,1210,Majones og tubepålegg
+923,20941,1212,Fryst og langtidsholdbar
+924,17065,1025,Majones og tubepålegg
+925,20362,1195,Pasta og nudler
+926,20338,1191,"Frø, nøtter og tørket frukt"
+927,17299,1038,Middagsbaser
+928,18943,1120,Middagsbaser
+929,17746,1054,Urter og spirer
+930,21439,1224,Pasta og nudler
+931,20881,1207,Yoghurt
+932,18919,1118,Asiatisk
+933,9914,721,Asiatisk
+934,4234,301,Pizza
+935,4741,350,Spekemat og salami
+936,7360,503,Brød til middag
+937,954,138,Bacon og smårettskinke
+938,8638,600,Hermetisert frukt og grønt
+939,8792,630,Hermetisert frukt og grønt
+940,6088,409,Krydder og buljong
+941,6739,473,Hermetisert frukt og grønt
+942,7534,510,Asiatisk
+943,9848,705,Hermetisert frukt og grønt
+944,8966,646,Fryst og langtidsholdbar
+945,10793,766,Salat og kål
+946,6103,411,Krydder og buljong
+947,6130,415,Krydder og buljong
+948,6325,450,Middagsbaser
+949,6442,464,Sauser
+950,7732,518,Knekkebrød
+951,8480,576,Hermetisert frukt og grønt
+952,8532,585,Middagsbaser
+953,8696,612,Pasta og nudler
+954,8059,526,Fløte og rømmeprodukter
+955,9425,690,Salat og kål
+956,10706,751,Sauser
+957,4732,347,Spekemat og salami
+958,6637,472,Ferdigretter
+959,8746,618,Hermetisert frukt og grønt
+960,8400,567,Fryst frukt og grønt
+961,8490,579,Taco og TexMex
+962,8626,598,Taco og TexMex
+963,8688,610,Pasta og nudler
+964,8778,627,Hermetisert frukt og grønt
+965,13504,872,Kjeks
+966,12250,823,Ost
+967,13231,856,Pizza
+968,12235,820,Smør og margarin
+969,15247,943,Kjøttdeig og karbonadedeig
+970,16834,1015,Kjøttboller og karbonader
+971,17095,1029,Sauser
+972,10912,769,Hermetisert frukt og grønt
+973,14074,898,Yoghurt
+974,17899,1064,Kjøtt- og kyllingpålegg
+975,12964,845,Asiatisk
+976,16311,981,Dessert
+977,15229,939,Pølser
+978,16188,972,Frossen fisk
+979,12241,821,Ost
+980,13726,883,Bacon og smårettskinke
+981,12046,796,Melk
+982,12160,810,Melk
+983,12286,829,Spesialoster
+984,14545,920,Sauser
+985,16377,988,"Frø, nøtter og tørket frukt"
+986,15441,954,Hermetisert frukt og grønt
+987,15606,957,Majones og tubepålegg
+988,17713,1046,Fryst frukt og grønt
+989,9275,662,Grønnsaker
+990,12295,831,Smør og margarin
+991,13786,890,Asiatisk
+992,9374,681,Grønnsaker
+993,12226,817,Ost
+994,15199,933,Pasta og nudler
+995,14404,916,Sauser
+996,16194,973,Frossen fisk
+997,13318,858,Sauser
+998,16305,980,Middagsbaser
+999,17752,1056,Urter og spirer
+1000,18352,1085,Kjøttdeig og karbonadedeig
+1001,15157,928,Villa Paradiso
+1002,22237,1264,"Ketchup, sennep og dressinger"
+1003,22483,1276,Grønnsaker
+1004,22840,1287,Fryst frukt og grønt
+1005,18106,1069,Pølser
+1006,18649,1104,Spesialoster
+1007,16828,1013,Pølser
+1008,17758,1058,Urter og spirer
+1009,19084,1128,Middagstilbehør
+1010,19672,1162,Grønnsaker
+1011,20299,1187,Hermetisert frukt og grønt
+1012,22492,1278,Grønnsaker
+1013,16825,1012,Pølser
+1014,21463,1225,Brød til middag
+1015,22984,1295,Pølser
+1016,21703,1247,Iskrem i boks
+1017,22318,1266,Oljer og eddik
+1018,20938,1211,Hermetisert frukt og grønt
+1019,19720,1177,Urter og spirer
+1020,22825,1286,Iskrem i boks
+1021,9452,698,Grønnsaker
+1022,18646,1103,Spesialoster
+1023,17425,1041,Krydder og buljong
+1024,18958,1122,Fryst frukt og grønt
+1025,19276,1132,Middagstilbehør
+1026,18256,1082,Kjøttboller og karbonader
+1027,20869,1206,Pizza
+1028,20461,1199,Plantebasert drikke
+1029,8098,527,Melk
+1030,4459,323,Ost
+1031,4960,367,Hermetisert sjømat
+1032,6169,422,Krydder og buljong
+1033,7744,519,Knekkebrød
+1034,7621,514,"Ketchup, sennep og dressinger"
+1035,8220,542,Ost
+1036,12136,806,Yoghurt
+1037,6064,404,Krydder og buljong
+1038,6289,445,Sauser
+1039,5671,387,Sauser
+1040,7792,522,Oljer og eddik
+1041,8682,608,Taco og TexMex
+1042,8630,599,Hermetisert frukt og grønt
+1043,9815,704,Nøtter
+1044,9887,715,Majones og tubepålegg
+1045,10712,753,Middagsbaser
+1046,10736,758,Middagsbaser
+1047,8214,541,Dessert
+1048,8752,620,Oljer og eddik
+1049,10993,775,Krydder og buljong
+1050,9905,719,Spekemat og salami
+1051,10721,756,Asiatisk
+1052,6037,401,Nøtter
+1053,6229,434,Krydder og buljong
+1054,8522,582,Sauser
+1055,8804,633,Hermetisert frukt og grønt
+1056,11956,787,Svin
+1057,13549,874,Knekkebrød
+1058,9380,683,Salat og kål
+1059,14407,917,Sauser
+1060,15253,945,Storfe og kalv
+1061,15265,949,Storfe og kalv
+1062,10646,740,Asiatisk
+1063,12148,809,Yoghurt
+1064,12937,843,"Frø, nøtter og tørket frukt"
+1065,12175,811,Melk
+1066,13132,850,Spekemat og salami
+1067,12097,802,Fløte og rømmeprodukter
+1068,12121,804,Yoghurt
+1069,12256,824,Ost
+1070,15214,935,Skalldyr
+1071,15339,951,Melk
+1072,17101,1030,Pasta og nudler
+1073,15819,963,Spekemat og salami
+1074,13870,893,Asiatisk
+1075,13987,895,Krydder og buljong
+1076,14371,911,Pizza
+1077,16558,999,"Kylling, kalkun og and"
+1078,15259,947,Storfe og kalv
+1079,6634,471,Hermetisert sjømat
+1080,13225,855,Dessert
+1081,13606,878,Ferdigretter
+1082,11437,777,Middagstilbehør
+1083,11497,783,Pølser
+1084,12196,814,Melk
+1085,12232,819,Ost
+1086,15103,924,Ferdigretter
+1087,15220,936,Pølser
+1088,14395,913,Krydder og buljong
+1089,15609,958,Sauser
+1090,19465,1147,Grønnsaker
+1091,21241,1219,Oljer og eddik
+1092,20884,1208,Yoghurt
+1093,18418,1089,Lam og vilt
+1094,21631,1240,Yoghurt
+1095,21652,1243,Fløte og rømmeprodukter
+1096,18226,1076,Fryst frukt og grønt
+1097,18658,1105,Spesialoster
+1098,19702,1172,Grønnsaker
+1099,18532,1098,Kjeks
+1100,16873,1016,Krydder og buljong
+1101,20350,1192,"Frø, nøtter og tørket frukt"
+1102,17287,1036,Krydder og buljong
+1103,21655,1244,Yoghurt
+1104,16927,1018,Ferdigretter
+1105,17293,1037,Krydder og buljong
+1106,19681,1165,Frukt
+1107,19705,1173,Grønnsaker
+1108,23155,1297,Urter og spirer
+1109,8658,605,Taco og TexMex
+1110,7483,509,Knekkebrød
+1111,11962,789,Hamburgere
+1112,10718,755,Middagsbaser
+1113,4969,369,Ost
+1114,5809,389,"Ketchup, sennep og dressinger"
+1115,6025,400,Nøtter
+1116,8122,530,Dessert
+1117,8602,594,Hermetisert frukt og grønt
+1118,8304,556,"Frø, nøtter og tørket frukt"
+1119,9263,659,Frukt
+1120,9443,696,Grønnsaker
+1121,4822,358,Ost
+1122,6202,428,Krydder og buljong
+1123,6367,457,Middagsbaser
+1124,7069,486,Sauser
+1125,9023,648,Frukt
+1126,9866,711,Middagstilbehør
+1127,10001,733,Sauser
+1128,8903,643,Hermetisert frukt og grønt
+1129,4723,345,Spekemat og salami
+1130,4867,361,Ost
+1131,5851,393,Middagstilbehør
+1132,6283,444,Sauser
+1133,6418,462,Sauser
+1134,4717,344,Spekemat og salami
+1135,7180,493,Dessert
+1136,8272,550,Kjøttboller og karbonader
+1137,9290,666,Salat og kål
+1138,9134,650,Taco og TexMex
+1139,6133,416,Krydder og buljong
+1140,3583,276,Smør og margarin
+1141,8780,628,Hermetisert frukt og grønt
+1142,8310,558,"Frø, nøtter og tørket frukt"
+1143,9305,668,Grønnsaker
+1144,10748,762,Pasta og nudler
+1145,12139,807,Yoghurt
+1146,13765,887,Pasta og nudler
+1147,16332,984,Middagsbaser
+1148,16497,995,Fersk fisk
+1149,15256,946,Storfe og kalv
+1150,13177,852,Yoghurt
+1151,16206,975,Pizza
+1152,6973,481,Knekkebrød
+1153,12013,791,Yoghurt
+1154,17494,1044,Yoghurt
+1155,13600,876,Ferdigretter
+1156,12028,794,Melk
+1157,15687,960,Spekemat og salami
+1158,12049,797,Melk
+1159,12145,808,Yoghurt
+1160,14485,919,"Frø, nøtter og tørket frukt"
+1161,13489,871,Nøtter
+1162,13720,882,Fryst og langtidsholdbar
+1163,13321,859,Asiatisk
+1164,16317,983,Fryst og langtidsholdbar
+1165,15238,941,Pølser
+1166,16359,986,Dessert
+1167,17869,1062,Smør og margarin
+1168,13363,862,Dessert
+1169,12094,801,Melk
+1170,15184,932,Pizza
+1171,14182,900,Fryst og langtidsholdbar
+1172,16576,1002,Nøtter
+1173,12823,840,Pasta og nudler
+1174,13369,863,Fryst og langtidsholdbar
+1175,13381,867,Fryst og langtidsholdbar
+1176,13420,868,Hamburgere
+1177,13546,873,Knekkebrød
+1178,14068,896,Yoghurt
+1179,16380,989,Middagsbaser
+1180,16401,992,Taco og TexMex
+1181,17026,1024,Fløte og rømmeprodukter
+1182,17749,1055,Urter og spirer
+1183,19378,1137,Sauser
+1184,18424,1091,Lam og vilt
+1185,19432,1138,Frukt
+1186,19588,1154,Iskrem i boks
+1187,17725,1048,Melk
+1188,17761,1059,Urter og spirer
+1189,18247,1079,Bacon og smårettskinke
+1190,21523,1229,Frukt
+1191,21562,1230,Yoghurt
+1192,22321,1267,Oljer og eddik
+1193,17743,1053,Urter og spirer
+1194,20260,1183,Sauser
+1195,22348,1269,Iskrem i boks
+1196,20596,1201,Krydder og buljong
+1197,18010,1066,Spekemat og salami
+1198,18949,1121,Middagsbaser
+1199,17734,1050,Melk
+1200,21232,1218,Middagsbaser
+1201,22882,1290,Kjøtt- og kyllingpålegg
+1202,16711,1007,"Frø, nøtter og tørket frukt"
+1203,17413,1040,Spekemat og salami
+1204,20272,1184,Oljer og eddik
+1205,22924,1292,Melk
+1206,17242,1034,Middagstilbehør
+1207,19564,1149,Iskrem i boks
+1208,19585,1153,Iskrem i boks
+1209,20410,1198,Oljer og eddik
+1210,18142,1070,Sauser
+1211,19597,1156,Iskrem i boks
+1212,18526,1097,Spesialoster
+1213,18808,1114,Majones og tubepålegg
+1214,20611,1204,Krydder og sauser
+1215,19054,1126,Salat og kål
+1216,23914,1369,Ost
+1217,23254,1313,Spesialoster
+1218,24440,1424,"Kylling, kalkun og and"
+1219,24535,1434,Yoghurt
+1220,24807,1456,Oljer og eddik
+1221,23376,1332,Pasta og nudler
+1222,21892,1256,Pasta og nudler
+1223,24920,1474,Ris og gryn
+1224,18436,1094,Storfe og kalv
+1225,24886,1466,Fersk fisk
+1226,23223,1305,Nøtter
+1227,23256,1314,Plantebasert drikke
+1228,23353,1328,Nøtter
+1229,24806,1455,Oljer og eddik
+1230,23652,1349,Taco og TexMex
+1231,23862,1359,Pizza
+1232,23244,1311,Spekemat og salami
+1233,24439,1423,"Kylling, kalkun og and"
+1234,24819,1458,Oljer og eddik
+1235,21601,1236,Melk
+1236,23871,1361,Pizza
+1237,24244,1418,Melk
+1238,24105,1409,Pølser
+1239,25940,1581,Storfe og kalv
+1240,26668,1688,Kjeks
+1241,24989,1485,Kjeks
+1242,24134,1410,Pølser
+1243,25536,1542,"Ketchup, sennep og dressinger"
+1244,25629,1557,Yoghurt
+1245,26278,1640,Middagstilbehør
+1246,25356,1525,Majones og tubepålegg
+1247,25367,1527,Fiskekaker og fiskepudding
+1248,25628,1556,Dessert
+1249,25994,1589,Kjøtt- og kyllingpålegg
+1250,26243,1627,Salat og kål
+1251,26675,1689,Kjøttdeig og karbonadedeig
+1252,25440,1535,Middagstilbehør
+1253,25151,1501,Frossen fisk
+1254,24061,1397,Asiatisk
+1255,24059,1396,Asiatisk
+1256,26233,1624,Pasta og nudler
+1257,26340,1648,Salat og kål
+1258,26536,1677,Salat og kål
+1259,26721,1696,Frukt
+1260,23920,1371,Frukt
+1261,27997,1929,Ferdigretter
+1262,28095,1953,Spesialoster
+1263,28159,1975,Sauser
+1264,27282,1788,Yoghurt
+1265,27698,1859,Salat og kål
+1266,27702,1862,Salat og kål
+1267,27846,1901,Plantebasert drikke
+1268,28088,1949,Frossen fisk
+1269,28102,1956,Ost
+1270,28283,2007,Dessert
+1271,28343,2030,Plantebasert drikke
+1272,26986,1725,Taco og TexMex
+1273,27166,1763,Frukt
+1274,27542,1825,Kjøtt- og kyllingpålegg
+1275,27771,1877,Frukt
+1276,21469,1227,"Ketchup, sennep og dressinger"
+1277,23375,1331,Asiatisk
+1278,23624,1347,Oljer og eddik
+1279,23658,1354,Hermetisert frukt og grønt
+1280,23698,1357,Kjøtt- og kyllingpålegg
+1281,23268,1318,Pølser
+1282,24968,1482,Pizza
+1283,23921,1372,Frukt
+1284,24009,1383,Ris og gryn
+1285,23215,1301,Grønnsaker
+1286,23266,1316,"Kylling, kalkun og and"
+1287,23926,1377,Grønnsaker
+1288,23925,1376,Grønnsaker
+1289,22252,1265,Hermetisert sjømat
+1290,23551,1341,Grønnsaker
+1291,23649,1348,Salat og kål
+1292,23697,1356,Kjøtt- og kyllingpålegg
+1293,23278,1320,Grønnsaker
+1294,24536,1435,Grønnsaker
+1295,23657,1353,Ris og gryn
+1296,21364,1221,Pizza
+1297,25630,1558,Sauser
+1298,26014,1595,Kjøttdeig og karbonadedeig
+1299,26253,1634,Salat og kål
+1300,26367,1653,Fryst og langtidsholdbar
+1301,26368,1654,Fryst og langtidsholdbar
+1302,26559,1681,Middagsbaser
+1303,26471,1666,Grønnsaker
+1304,25352,1524,Frossen fisk
+1305,25612,1549,Ferdigretter
+1306,26449,1658,Frukt
+1307,23548,1339,Grønnsaker
+1308,24063,1399,Asiatisk
+1309,26000,1592,Kjøtt- og kyllingpålegg
+1310,25001,1487,Smør og margarin
+1311,24067,1402,Asiatisk
+1312,25269,1513,Pizza
+1313,25479,1539,Melk
+1314,26139,1614,Hamburgere
+1315,26226,1622,Frukt
+1316,24062,1398,Asiatisk
+1317,25571,1548,Bær
+1318,26170,1618,Kjøtt- og kyllingpålegg
+1319,26467,1663,Urter og spirer
+1320,26408,1657,Grønnsaker
+1321,26466,1662,Urter og spirer
+1322,26676,1690,Spesialoster
+1323,27230,1777,Asiatisk
+1324,27150,1758,Hermetisert frukt og grønt
+1325,27445,1801,Asiatisk
+1326,27485,1807,Knekkebrød
+1327,27811,1887,Middagsbaser
+1328,28254,1995,Spekemat og salami
+1329,28315,2019,Ost
+1330,28411,2039,Hamburgere
+1331,26761,1702,"Frø, nøtter og tørket frukt"
+1332,27217,1772,Brød til middag
+1333,27986,1925,"Kylling, kalkun og and"
+1334,18667,1107,Spesialoster
+1335,19231,1130,Pasta og nudler
+1336,19438,1139,Frukt
+1337,17740,1052,Yoghurt
+1338,18775,1112,Krydder og buljong
+1339,18907,1117,Asiatisk
+1340,21931,1261,Spekemat og salami
+1341,22216,1262,Krydder og buljong
+1342,17077,1027,Middagsbaser
+1343,23971,1382,"Frø, nøtter og tørket frukt"
+1344,24245,1419,Melk
+1345,21424,1223,Kjeks
+1346,23653,1350,Taco og TexMex
+1347,23872,1362,Pizza
+1348,24438,1422,"Kylling, kalkun og and"
+1349,19447,1141,Grønnsaker
+1350,24541,1437,Grønnsaker
+1351,24674,1449,Dessert
+1352,24508,1428,Ferdigretter
+1353,24672,1448,Yoghurt
+1354,24902,1472,Fersk fisk
+1355,23253,1312,Bær
+1356,24187,1411,Kjøtt- og kyllingpålegg
+1357,24247,1420,Melk
+1358,24554,1440,Sauser
+1359,24843,1460,Middagstilbehør
+1360,24922,1475,Ris og gryn
+1361,24360,1421,Hermetisert sjømat
+1362,24975,1484,Knekkebrød
+1363,24243,1417,Fløte og rømmeprodukter
+1364,24589,1446,Hermetisert frukt og grønt
+1365,22471,1273,Grønnsaker
+1366,23279,1321,Grønnsaker
+1367,24524,1432,"Kylling, kalkun og and"
+1368,24888,1468,Fersk fisk
+1369,23533,1338,Grønnsaker
+1370,24023,1391,Taco og TexMex
+1371,25259,1511,Pasta og nudler
+1372,26541,1679,Frukt
+1373,24051,1395,Pølser
+1374,25108,1492,Fløte og rømmeprodukter
+1375,26223,1621,Fryst og langtidsholdbar
+1376,26626,1685,Urter og spirer
+1377,25468,1537,Fløte og rømmeprodukter
+1378,26364,1651,"Lomper, pølse- og hamburgerbrød"
+1379,26459,1659,Fryst og langtidsholdbar
+1380,25433,1534,Bacon og smårettskinke
+1381,25637,1560,Spekemat og salami
+1382,26512,1672,Spesialoster
+1383,24011,1385,Brød til middag
+1384,24065,1400,Asiatisk
+1385,26241,1625,Salat og kål
+1386,26552,1680,Brød til middag
+1387,24066,1401,Asiatisk
+1388,25992,1588,Pizza
+1389,25566,1544,Taco og TexMex
+1390,26338,1647,Salat og kål
+1391,26524,1675,Asiatisk
+1392,24017,1388,Ost
+1393,25125,1497,Fryst frukt og grønt
+1394,27539,1822,Kjøtt- og kyllingpålegg
+1395,27642,1843,Grønnsaker
+1396,27951,1920,Knekkebrød
+1397,27962,1922,Pasta og nudler
+1398,28097,1954,Nøtter
+1399,27253,1783,Frukt
+1400,27650,1851,Kjøtt- og kyllingpålegg
+1401,19450,1142,Grønnsaker
+1402,27942,1917,Kjøttboller og karbonader
+1403,28139,1964,Ost
+1404,28216,1988,Hermetisert frukt og grønt
+1405,26757,1700,Pasta og nudler
+1406,27706,1866,Grønnsaker
+1407,26074,1600,Storfe og kalv
+1408,28047,1935,Knekkebrød
+1409,28093,1951,Pasta og nudler
+1410,19462,1146,Grønnsaker
+1411,19573,1152,Iskrem i boks
+1412,21220,1217,"Ketchup, sennep og dressinger"
+1413,23655,1351,Hermetisert frukt og grønt
+1414,23665,1355,Smør og margarin
+1415,24555,1441,Sauser
+1416,24854,1462,Frukt
+1417,21793,1250,Spesialoster
+1418,23656,1352,Hermetisert frukt og grønt
+1419,23282,1322,Kjøttdeig og karbonadedeig
+1420,23230,1307,Spekemat og salami
+1421,23486,1336,Ost
+1422,24095,1406,Pizza
+1423,24544,1438,Asiatisk
+1424,23904,1368,Fryst og langtidsholdbar
+1425,23571,1343,Pasta og nudler
+1426,24526,1433,Pølser
+1427,24887,1467,Fersk fisk
+1428,23267,1317,Pølser
+1429,19714,1175,Salat og kål
+1430,19255,1131,Fryst og langtidsholdbar
+1431,21625,1238,Yoghurt
+1432,23572,1344,Pasta og nudler
+1433,24239,1414,Yoghurt
+1434,24810,1457,Oljer og eddik
+1435,24952,1478,Spekemat og salami
+1436,24015,1387,Ost
+1437,25613,1550,Ferdigretter
+1438,25981,1586,Kjøttboller og karbonader
+1439,25020,1488,Asiatisk
+1440,26085,1605,Pølser
+1441,26250,1631,Salat og kål
+1442,26277,1639,Frukt
+1443,26520,1674,Pizza
+1444,25946,1584,Brød til middag
+1445,26470,1665,Urter og spirer
+1446,26508,1669,Spesialoster
+1447,25897,1577,Dessert
+1448,26002,1593,Svin
+1449,26151,1615,Spekemat og salami
+1450,23759,1358,Pølser
+1451,25774,1569,Krydder og buljong
+1452,26627,1686,Urter og spirer
+1453,26710,1695,Ost
+1454,25260,1512,Pasta og nudler
+1455,25148,1499,Asiatisk
+1456,26607,1684,Knekkebrød
+1457,26102,1610,Grønnsaker
+1458,26461,1660,Spesialoster
+1459,27488,1810,Sauser
+1460,26073,1599,Storfe og kalv
+1461,28068,1942,Ost
+1462,28256,1996,Yoghurt
+1463,27163,1760,Frukt
+1464,27365,1793,Svin
+1465,27503,1814,Hamburgere
+1466,27541,1824,Kjøtt- og kyllingpålegg
+1467,26070,1596,Storfe og kalv
+1468,26071,1597,Storfe og kalv
+1469,27794,1883,Kjøttboller og karbonader
+1470,27881,1910,"Kylling, kalkun og and"
+1471,27985,1924,"Kylling, kalkun og and"
+1472,27995,1928,Spekemat og salami
+1473,28243,1993,Taco og TexMex
+1474,26756,1699,Pasta og nudler
+1475,27041,1745,Bacon og smårettskinke
+1476,27538,1821,Spekemat og salami
+1477,27594,1831,Grønnsaker
+1478,27810,1886,Middagsbaser
+1479,27965,1923,Middagsbaser
+1480,28053,1937,Fryst og langtidsholdbar
+1481,28066,1941,Frukt
+1482,28247,1994,Taco og TexMex
+1483,28323,2022,Ferdigretter
+1484,17461,1043,Dessert
+1485,18595,1099,Spesialoster
+1486,18850,1116,Hermetisert sjømat
+1487,22753,1283,Bær
+1488,21577,1234,Spesialoster
+1489,21799,1252,Ost
+1490,22480,1275,Salat og kål
+1491,24236,1413,Bacon og smårettskinke
+1492,21787,1249,Bacon og smårettskinke
+1493,15100,923,Ferdigretter
+1494,22477,1274,Salat og kål
+1495,23549,1340,Grønnsaker
+1496,24572,1444,"Ketchup, sennep og dressinger"
+1497,24685,1452,Fersk fisk
+1498,24940,1477,Brød til middag
+1499,21595,1235,Melk
+1500,24494,1425,Middagstilbehør
+1501,24537,1436,Urter og spirer
+1502,23883,1367,Spesialoster
+1503,23219,1303,Svin
+1504,21190,1216,Knekkebrød
+1505,23241,1309,Spekemat og salami
+1506,21802,1253,Hermetisert sjømat
+1507,23922,1373,Frukt
+1508,23948,1379,Pizza
+1509,23184,1298,Iskrem i boks
+1510,23876,1365,Pizza
+1511,24967,1481,Pizza
+1512,21613,1237,Ferdigretter
+1513,24240,1415,Smør og margarin
+1514,24847,1461,Middagsbaser
+1515,19633,1160,Grønnsaker
+1516,23477,1335,Dessert
+1517,25618,1551,Sauser
+1518,26177,1619,Fryst og langtidsholdbar
+1519,26684,1691,Ferdigmikser
+1520,25941,1582,Storfe og kalv
+1521,25545,1543,Kjøtt- og kyllingpålegg
+1522,25568,1546,Taco og TexMex
+1523,26152,1616,Kjøttdisken
+1524,26167,1617,Ost
+1525,26308,1645,Salat og kål
+1526,26535,1676,Ferdigretter
+1527,23476,1334,Dessert
+1528,24012,1386,Brød til middag
+1529,26242,1626,Salat og kål
+1530,26349,1649,Bær
+1531,26639,1687,Kjøttboller og karbonader
+1532,25064,1490,Asiatisk
+1533,26098,1607,Ost
+1534,26245,1628,Salat og kål
+1535,26290,1643,Pasta og nudler
+1536,25000,1486,Smør og margarin
+1537,25257,1510,Pasta og nudler
+1538,26255,1636,Grønnsaker
+1539,26513,1673,Spesialoster
+1540,25619,1552,Krydder og buljong
+1541,25160,1502,"Lomper, pølse- og hamburgerbrød"
+1542,26183,1620,Kjøtt- og kyllingpålegg
+1543,27369,1795,Kjeks
+1544,27885,1913,Kjøtt- og kyllingpålegg
+1545,28019,1931,Frukt
+1546,28052,1936,Frukt
+1547,27044,1746,Pølser
+1548,27200,1769,Asiatisk
+1549,27247,1781,Fersk fisk
+1550,27255,1784,Frukt
+1551,27462,1803,Salat og kål
+1552,27504,1815,Hamburgere
+1553,25945,1583,Grønnsaker
+1554,28023,1932,Frukt
+1555,28288,2010,Kjøtt- og kyllingpålegg
+1556,28487,2043,Middagstilbehør
+1557,28489,2044,Pasta og nudler
+1558,26987,1726,Taco og TexMex
+1559,27167,1764,Frukt
+1560,27198,1767,Asiatisk
+1561,27573,1827,Spesialoster
+1562,27643,1844,Pølser
+1563,27845,1900,Plantebasert drikke
+1564,28158,1974,Taco og TexMex
+1565,28285,2009,Kjøtt- og kyllingpålegg
+1566,18964,1123,Frukt
+1567,22327,1268,Hermetisert sjømat
+1568,20890,1209,Hermetisert sjømat
+1569,19303,1133,Skalldyr
+1570,21898,1257,Spekemat og salami
+1571,23873,1363,Pizza
+1572,24889,1469,Fersk fisk
+1573,23570,1342,Pasta og nudler
+1574,23345,1327,Middagsbaser
+1575,24682,1451,Melk
+1576,21571,1232,Ost
+1577,23194,1300,Grønnsaker
+1578,23929,1378,Kjøttboller og karbonader
+1579,24885,1465,Fersk fisk
+1580,23877,1366,Pizza
+1581,24241,1416,Fløte og rømmeprodukter
+1582,24903,1473,Fersk fisk
+1583,21574,1233,Spesialoster
+1584,24523,1431,Pølser
+1585,24020,1389,Taco og TexMex
+1586,24039,1394,Storfe og kalv
+1587,25498,1541,Nøtter
+1588,25624,1554,Dessert
+1589,25904,1578,Kjeks
+1590,26350,1650,Bær
+1591,25567,1545,Taco og TexMex
+1592,25939,1580,Storfe og kalv
+1593,25569,1547,Taco og TexMex
+1594,26084,1604,Pølser
+1595,26086,1606,Ost
+1596,26472,1667,Middagstilbehør
+1597,24071,1403,"Kylling, kalkun og and"
+1598,25080,1491,Yoghurt
+1599,24010,1384,Asiatisk
+1600,25472,1538,Melk
+1601,25171,1503,Pizza
+1602,26103,1611,Frukt
+1603,26510,1671,Spesialoster
+1604,24038,1393,Kjøttboller og karbonader
+1605,24083,1405,Asiatisk
+1606,26540,1678,Bær
+1607,25113,1494,Oljer og eddik
+1608,25359,1526,Asiatisk
+1609,26289,1642,Ost
+1610,27164,1761,Frukt
+1611,27222,1774,Krydder og buljong
+1612,27452,1802,Krydder og buljong
+1613,27987,1926,"Kylling, kalkun og and"
+1614,28313,2018,Kjøtt- og kyllingpålegg
+1615,26870,1715,Ferdigretter
+1616,27147,1756,Hermetisert frukt og grønt
+1617,27231,1778,Asiatisk
+1618,27232,1779,Asiatisk
+1619,28117,1959,Fiskekaker og fiskepudding
+1620,28174,1981,Taco og TexMex
+1621,26827,1707,Middagsbaser
+1622,26877,1716,Pasta og nudler
+1623,27008,1734,"Kylling, kalkun og and"
+1624,27540,1823,Kjøtt- og kyllingpålegg
+1625,28069,1943,Knekkebrød
+1626,28116,1958,Ost
+1627,16753,1010,Krydder og buljong
+1628,22885,1291,Kjøtt- og kyllingpålegg
+1629,20599,1202,Krydder og buljong
+1630,23915,1370,Yoghurt
+1631,23923,1374,Grønnsaker
+1632,19717,1176,Salat og kål
+1633,24509,1429,Ferdigretter
+1634,24953,1479,Spekemat og salami
+1635,23868,1360,Pizza
+1636,23951,1381,Ost
+1637,23242,1310,Spekemat og salami
+1638,23318,1323,Pølser
+1639,4618,336,Spekemat og salami
+1640,23186,1299,Iskrem i boks
+1641,23263,1315,"Kylling, kalkun og and"
+1642,23340,1326,Knekkebrød
+1643,24517,1430,Fryst og langtidsholdbar
+1644,24971,1483,Spekemat og salami
+1645,23335,1325,Yoghurt
+1646,24772,1454,Spekemat og salami
+1647,23373,1330,Brød til middag
+1648,22459,1272,Urter og spirer
+1649,24549,1439,Sauser
+1650,24856,1463,Spesialoster
+1651,24895,1471,Fersk fisk
+1652,23229,1306,Spekemat og salami
+1653,23217,1302,Grønnsaker
+1654,23356,1329,Frossen fisk
+1655,24687,1453,Bacon og smårettskinke
+1656,24926,1476,Ris og gryn
+1657,21769,1248,Hermetisert sjømat
+1658,21835,1254,Pizza
+1659,25633,1559,Fryst og langtidsholdbar
+1660,25110,1493,Fryst og langtidsholdbar
+1661,26013,1594,Kjøttdeig og karbonadedeig
+1662,26121,1613,Ost
+1663,24037,1392,Pølser
+1664,25350,1523,"Ketchup, sennep og dressinger"
+1665,25467,1536,Dessert
+1666,25995,1590,Spekemat og salami
+1667,26464,1661,Urter og spirer
+1668,25625,1555,Dessert
+1669,23578,1346,Pasta og nudler
+1670,25121,1495,Kjøtt- og kyllingpålegg
+1671,25021,1489,Asiatisk
+1672,24072,1404,Bacon og smårettskinke
+1673,26407,1656,Salat og kål
+1674,26560,1682,Taco og TexMex
+1675,25963,1585,Taco og TexMex
+1676,26230,1623,Spesialoster
+1677,26246,1629,Salat og kål
+1678,26287,1641,Fryst og langtidsholdbar
+1679,26686,1692,Yoghurt
+1680,26694,1693,Grønnsaker
+1681,26703,1694,Dessert
+1682,27862,1907,"Kylling, kalkun og and"
+1683,28143,1967,Pizza
+1684,28326,2025,Middagstilbehør
+1685,26858,1710,Ost
+1686,27248,1782,Frukt
+1687,27708,1868,Salat og kål
+1688,27822,1888,Fersk fisk
+1689,28112,1957,Ris og gryn
+1690,28427,2041,Pasta og nudler
+1691,27281,1787,Melk
+1692,27319,1790,Krydder og buljong
+1693,27323,1791,Smør og margarin
+1694,27575,1829,Spesialoster
+1695,28101,1955,Dessert
+1696,28173,1980,Middagsbaser
+1697,18778,1113,Asiatisk
+1698,9413,689,Frukt
+1699,20335,1190,Ris og gryn
+1700,22444,1271,Urter og spirer
+1701,21916,1258,Spekemat og salami
+1702,24884,1464,Fersk fisk
+1703,23233,1308,Spekemat og salami
+1704,21877,1255,Hermetisert sjømat
+1705,23924,1375,Grønnsaker
+1706,23222,1304,Nøtter
+1707,23277,1319,Grønnsaker
+1708,24669,1447,Dessert
+1709,18427,1092,Lam og vilt
+1710,9362,678,Salat og kål
+1711,24562,1442,Majones og tubepålegg
+1712,21796,1251,Fløte og rømmeprodukter
+1713,24097,1407,Asiatisk
+1714,24233,1412,Spekemat og salami
+1715,21415,1222,Fryst og langtidsholdbar
+1716,23875,1364,Pizza
+1717,21628,1239,Yoghurt
+1718,23950,1380,Kjøtt- og kyllingpålegg
+1719,23333,1324,Knekkebrød
+1720,24495,1426,Fryst frukt og grønt
+1721,24500,1427,Fryst frukt og grønt
+1722,24571,1443,"Ketchup, sennep og dressinger"
+1723,24681,1450,Melk
+1724,24966,1480,Pizza
+1725,24587,1445,Fiskekaker og fiskepudding
+1726,24840,1459,Middagstilbehør
+1727,24890,1470,Fersk fisk
+1728,24099,1408,Hermetisert sjømat
+1729,25127,1498,Middagstilbehør
+1730,25991,1587,Storfe og kalv
+1731,26273,1637,Spekemat og salami
+1732,26291,1644,Pasta og nudler
+1733,26492,1668,Dessert
+1734,25766,1568,Storfe og kalv
+1735,25372,1528,Ost
+1736,26252,1633,Salat og kål
+1737,25620,1553,Krydder og buljong
+1738,26251,1632,Salat og kål
+1739,23577,1345,Pasta og nudler
+1740,25250,1509,Middagstilbehør
+1741,25497,1540,Nøtter
+1742,25149,1500,Asiatisk
+1743,26254,1635,Grønnsaker
+1744,26468,1664,Urter og spirer
+1745,24021,1390,Taco og TexMex
+1746,25936,1579,Storfe og kalv
+1747,26247,1630,Salat og kål
+1748,23422,1333,Knekkebrød
+1749,25998,1591,Kjøtt- og kyllingpålegg
+1750,26509,1670,Ost
+1751,27046,1748,Frukt
+1752,27705,1865,Salat og kål
+1753,27710,1870,Salat og kål
+1754,27834,1892,Sauser
+1755,28059,1938,Grønnsaker
+1756,28130,1963,Pasta og nudler
+1757,27487,1809,Sauser
+1758,19468,1148,Salat og kål
+1759,28122,1961,Yoghurt
+1760,28162,1976,Ost
+1761,26916,1720,Ost
+1762,27273,1785,Nøtter
+1763,27617,1836,Middagstilbehør
+1764,27701,1861,Salat og kål
+1765,28127,1962,Oljer og eddik
+1766,28157,1973,Taco og TexMex
+1767,28376,2037,Pizza
+1768,27004,1731,Ris og gryn
+1769,27020,1743,Frukt
+1770,27412,1797,"Ketchup, sennep og dressinger"
+1771,27508,1817,Svin
+1772,28094,1952,Pasta og nudler
+1773,28261,1998,"Kylling, kalkun og and"
+1774,26906,1718,Pølser
+1775,9287,665,Grønnsaker
+1776,26993,1729,"Frø, nøtter og tørket frukt"
+1777,27366,1794,Fryst og langtidsholdbar
+1778,27484,1806,Knekkebrød
+1779,26081,1603,Svin
+1780,28265,1999,Fryst og langtidsholdbar
+1781,28284,2008,Fiskekaker og fiskepudding
+1782,27141,1754,Fersk fisk
+1783,27694,1856,Salat og kål
+1784,27773,1878,Frukt
+1785,27792,1882,Hermetisert frukt og grønt
+1786,28071,1944,Spekemat og salami
+1787,28327,2026,Fersk fisk
+1788,26868,1713,Ferdigretter
+1789,27610,1834,Krydder og buljong
+1790,28148,1970,Spesialoster
+1791,26991,1728,"Frø, nøtter og tørket frukt"
+1792,27223,1775,Krydder og buljong
+1793,27838,1895,Sauser
+1794,28039,1933,Yoghurt
+1795,28165,1978,Middagsbaser
+1796,28849,2091,Knekkebrød
+1797,28866,2092,Egg
+1798,29148,2129,Ferdigretter
+1799,29313,2165,Pasta og nudler
+1800,29745,2261,Nøtter
+1801,29756,2270,Oljer og eddik
+1802,25711,1566,Dessert
+1803,28787,2086,Asiatisk
+1804,29137,2124,"Frø, nøtter og tørket frukt"
+1805,29221,2155,Pølser
+1806,29709,2245,Fryst og langtidsholdbar
+1807,29729,2249,Brød til middag
+1808,29330,2173,Oljer og eddik
+1809,29500,2188,Storfe og kalv
+1810,29591,2211,Knekkebrød
+1811,29746,2262,"Frø, nøtter og tørket frukt"
+1812,28618,2056,Melk
+1813,29766,2278,Nøtter
+1814,28718,2075,Ost
+1815,29151,2131,"Ketchup, sennep og dressinger"
+1816,28767,2082,Kjøtt- og kyllingpålegg
+1817,29161,2138,Spekemat og salami
+1818,29207,2146,Middagsbaser
+1819,29220,2154,Plantebasert drikke
+1820,25296,1521,"Frø, nøtter og tørket frukt"
+1821,28733,2078,Sauser
+1822,29028,2114,Krydder og buljong
+1823,29130,2122,Taco og TexMex
+1824,29232,2159,Sauser
+1825,28742,2080,Fløte og rømmeprodukter
+1826,29001,2105,Sauser
+1827,29763,2277,"Frø, nøtter og tørket frukt"
+1828,25406,1533,Sauser
+1829,30583,2378,Sauser
+1830,30879,2422,Hermetisert frukt og grønt
+1831,31054,2458,Kjøtt- og kyllingpålegg
+1832,31065,2467,Juice og fruktdrikker
+1833,31342,2566,Spekemat og salami
+1834,31614,2633,Chips og snacks
+1835,31727,2678,Pølser
+1836,31890,2701,Kjøttboller og karbonader
+1837,30306,2337,Hermetisert sjømat
+1838,31059,2463,Kjøtt- og kyllingpålegg
+1839,31214,2511,Pizza
+1840,31735,2682,Frossen fisk
+1841,30485,2358,Asiatisk
+1842,30863,2412,Skalldyr
+1843,31502,2600,Mel og gryn
+1844,31620,2636,Frossen fisk
+1845,31888,2699,Kjøttboller og karbonader
+1846,31913,2709,Frossen fisk
+1847,26406,1655,Grønnsaker
+1848,31233,2522,Saft
+1849,31314,2558,Pizza
+1850,31726,2677,Pølser
+1851,31839,2693,"Ketchup, sennep og dressinger"
+1852,31885,2697,"Kylling, kalkun og and"
+1853,30265,2328,Frossen fisk
+1854,30759,2400,Svin
+1855,30910,2425,Asiatisk
+1856,31218,2514,Fløte og rømmeprodukter
+1857,31320,2560,Middagsbaser
+1858,31674,2657,Egg
+1859,30478,2357,Julens kjøtt og kylling
+1860,31088,2480,Middagstilbehør
+1861,31251,2535,Pasta og nudler
+1862,31040,2448,"Ketchup, sennep og dressinger"
+1863,31047,2452,Iskrem i boks
+1864,31092,2482,Spekemat og salami
+1865,31115,2489,Egg
+1866,31362,2573,Yoghurt
+1867,27436,1800,Frukt
+1868,27646,1847,Pølser
+1869,26076,1602,Storfe og kalv
+1870,26737,1698,Grønnsaker
+1871,27013,1739,"Kylling, kalkun og and"
+1872,27224,1776,Krydder og buljong
+1873,27481,1805,Knekkebrød
+1874,27574,1828,Spesialoster
+1875,27860,1905,"Kylling, kalkun og and"
+1876,28164,1977,Middagsbaser
+1877,28181,1983,Oljer og eddik
+1878,28354,2033,Yoghurt
+1879,27063,1752,Fryst og langtidsholdbar
+1880,28328,2027,Fersk fisk
+1881,26941,1722,Grønnsaker
+1882,27045,1747,Frukt
+1883,27543,1826,Kjøtt- og kyllingpålegg
+1884,27576,1830,Spesialoster
+1885,27879,1908,"Kylling, kalkun og and"
+1886,28120,1960,Hermetisert sjømat
+1887,28234,1991,Oljer og eddik
+1888,28317,2021,Ost
+1889,28342,2029,Yoghurt
+1890,26866,1711,Taco og TexMex
+1891,27647,1848,Kjøttboller og karbonader
+1892,27649,1850,Spekemat og salami
+1893,28361,2036,Fryst og langtidsholdbar
+1894,29136,2123,Knekkebrød
+1895,29593,2213,Pasta og nudler
+1896,29680,2237,Krydder og buljong
+1897,29157,2134,Kjøtt- og kyllingpålegg
+1898,29322,2169,Oljer og eddik
+1899,29678,2235,Krydder og buljong
+1900,28692,2067,Ferdigretter
+1901,28721,2077,Bacon og smårettskinke
+1902,28888,2096,Pizza
+1903,29006,2108,Dessert
+1904,29007,2109,Dessert
+1905,29328,2171,Asiatisk
+1906,29543,2196,Asiatisk
+1907,28685,2065,Yoghurt
+1908,29333,2175,Asiatisk
+1909,29628,2222,Krydder og buljong
+1910,29758,2272,"Frø, nøtter og tørket frukt"
+1911,25738,1567,Pizza
+1912,28716,2074,Ost
+1913,29159,2136,Spekemat og salami
+1914,29581,2207,"Frø, nøtter og tørket frukt"
+1915,29663,2227,Grønnsaker
+1916,29715,2248,Fiskekaker og fiskepudding
+1917,29176,2142,Middagsbaser
+1918,29208,2147,Oljer og eddik
+1919,29319,2167,Oljer og eddik
+1920,29522,2194,Skalldyr
+1921,29629,2223,Asiatisk
+1922,28770,2084,Sauser
+1923,29673,2232,Krydder og buljong
+1924,29759,2273,Ris og gryn
+1925,25804,1574,Salat og kål
+1926,29577,2204,Krydder og buljong
+1927,29762,2276,"Frø, nøtter og tørket frukt"
+1928,29769,2281,"Frø, nøtter og tørket frukt"
+1929,30747,2395,Ost
+1930,30932,2437,Røkt og gravet fisk
+1931,31090,2481,Spekemat og salami
+1932,31151,2497,"Kylling, kalkun og and"
+1933,31208,2508,Kjøttdeig og karbonadedeig
+1934,31260,2541,Mel og gryn
+1935,25123,1496,Pizza
+1936,31480,2593,Kjøttboller og karbonader
+1937,31523,2609,Svin
+1938,31575,2621,Kjeks
+1939,32055,2719,"Frø, nøtter og tørket frukt"
+1940,31068,2469,Middagstilbehør
+1941,31343,2567,Spekemat og salami
+1942,31608,2630,Pizza
+1943,30281,2335,"Ketchup, sennep og dressinger"
+1944,30862,2411,Frossen fisk
+1945,31175,2500,Kjøttboller og karbonader
+1946,27510,1819,Deiger og bunner
+1947,31793,2686,"Lomper, pølse- og hamburgerbrød"
+1948,32046,2718,"Ketchup, sennep og dressinger"
+1949,30501,2367,Yoghurt
+1950,30758,2399,Storfe og kalv
+1951,30928,2434,Fiskekaker og fiskepudding
+1952,31112,2486,Iskrem i boks
+1953,31451,2587,Ferdigretter
+1954,31705,2674,Asiatisk
+1955,31739,2683,Svin
+1956,30488,2361,Middagstilbehør
+1957,30926,2432,Fiskekaker og fiskepudding
+1958,31035,2443,Hamburgere
+1959,31063,2465,Knekkebrød
+1960,31171,2499,Salat og kål
+1961,30468,2355,Sauser
+1962,30715,2392,Skalldyr
+1963,30756,2398,Svin
+1964,31249,2534,Pasta og nudler
+1965,31345,2569,Spekemat og salami
+1966,31525,2611,Svin
+1967,30490,2363,Knekkebrød
+1968,30936,2439,"Kylling, kalkun og and"
+1969,31193,2506,Sauser
+1970,27012,1738,"Kylling, kalkun og and"
+1971,27148,1757,Hermetisert frukt og grønt
+1972,27202,1770,Asiatisk
+1973,27309,1789,Plantebasert drikke
+1974,27703,1863,Salat og kål
+1975,27768,1875,Grønnsaker
+1976,27795,1884,Kjøttboller og karbonader
+1977,27837,1894,Sauser
+1978,28215,1987,Taco og TexMex
+1979,28430,2042,Pizza
+1980,27016,1741,Grønnsaker
+1981,27509,1818,Pizza
+1982,28065,1940,Frukt
+1983,28324,2023,Middagstilbehør
+1984,26763,1704,"Frø, nøtter og tørket frukt"
+1985,26976,1724,Grønnsaker
+1986,27722,1872,Skalldyr
+1987,28293,2013,Yoghurt
+1988,28296,2014,"Ketchup, sennep og dressinger"
+1989,26988,1727,Middagsbaser
+1990,27428,1798,Hamburgere
+1991,27832,1890,Kjøttboller og karbonader
+1992,27836,1893,Sauser
+1993,28270,2001,Majones og tubepålegg
+1994,27622,1837,Frukt
+1995,19453,1143,Salat og kål
+1996,27884,1912,Spekemat og salami
+1997,27988,1927,"Kylling, kalkun og and"
+1998,26309,1646,Grønnsaker
+1999,28788,2087,Oljer og eddik
+2000,29713,2246,Fiskekaker og fiskepudding
+2001,25270,1514,Pizza
+2002,29209,2148,Taco og TexMex
+2003,29212,2151,Brød til middag
+2004,29231,2158,Sauser
+2005,28512,2051,Knekkebrød
+2006,28619,2057,Fløte og rømmeprodukter
+2007,28712,2072,Lam og vilt
+2008,29619,2218,Pasta og nudler
+2009,28540,2054,Fryst og langtidsholdbar
+2010,28714,2073,Pizza
+2011,28892,2099,Pizza
+2012,29147,2128,Bacon og smårettskinke
+2013,29332,2174,Asiatisk
+2014,29478,2185,Yoghurt
+2015,29556,2200,Middagsbaser
+2016,29580,2206,"Frø, nøtter og tørket frukt"
+2017,29643,2224,Fersk fisk
+2018,29068,2117,Ris og gryn
+2019,29203,2144,Asiatisk
+2020,29329,2172,Middagstilbehør
+2021,29587,2210,Sauser
+2022,29669,2229,Knekkebrød
+2023,25401,1532,Brød til middag
+2024,25688,1561,Svin
+2025,28655,2061,Yoghurt
+2026,28890,2097,Pizza
+2027,29579,2205,"Frø, nøtter og tørket frukt"
+2028,29679,2236,Krydder og buljong
+2029,25273,1515,Ost
+2030,28891,2098,Pizza
+2031,29160,2137,Spekemat og salami
+2032,29595,2215,Grønnsaker
+2033,25274,1516,Hamburgere
+2034,25226,1507,Ris og gryn
+2035,30268,2329,Yoghurt
+2036,30279,2334,Spekemat og salami
+2037,30472,2356,Plantebasert drikke
+2038,30580,2377,Spesialoster
+2039,30651,2380,Håndverksbakeri
+2040,31231,2520,Saft
+2041,31234,2523,Brød til middag
+2042,31678,2660,Kjøttdeig og karbonadedeig
+2043,30659,2384,Fersk fisk
+2044,30870,2415,Hermetisert frukt og grønt
+2045,29009,2111,Egg
+2046,31619,2635,Frossen fisk
+2047,31630,2638,Pizza
+2048,31637,2641,Pizza
+2049,31894,2704,Pølser
+2050,27853,1903,Grønnsaker
+2051,30877,2420,Sauser
+2052,31148,2494,Kjøttboller og karbonader
+2053,31528,2613,Spesialoster
+2054,31838,2692,Asiatisk
+2055,30876,2419,Sauser
+2056,30930,2436,Fiskekaker og fiskepudding
+2057,31235,2524,Fryst og langtidsholdbar
+2058,31083,2475,Middagstilbehør
+2059,31684,2666,Ferdigretter
+2060,31686,2667,Ferdigretter
+2061,30864,2413,Asiatisk
+2062,31093,2483,Spekemat og salami
+2063,31444,2586,Iskrem i boks
+2064,31540,2618,Spesialoster
+2065,31600,2626,Ferdigretter
+2066,31640,2644,Fryst og langtidsholdbar
+2067,30272,2332,Fryst og langtidsholdbar
+2068,30666,2388,Kjøtt- og kyllingpålegg
+2069,30746,2394,Ost
+2070,31176,2501,Kjeks
+2071,30858,2410,Frukt
+2072,31421,2583,Lam og vilt
+2073,31720,2676,Hamburgere
+2074,30459,2353,Grønnsaker
+2075,30512,2371,Plantebasert drikke
+2076,31215,2512,Pizza
+2077,31232,2521,Saft
+2078,31673,2656,Egg
+2079,27490,1812,Pasta og nudler
+2080,27606,1832,"Lomper, pølse- og hamburgerbrød"
+2081,27667,1855,Frukt
+2082,27770,1876,Grønnsaker
+2083,28141,1965,Ost
+2084,28292,2012,Hermetisert sjømat
+2085,26818,1706,Grønnsaker
+2086,26914,1719,Ost
+2087,27221,1773,Asiatisk
+2088,27370,1796,Middagstilbehør
+2089,27699,1860,Salat og kål
+2090,26928,1721,Kjøttboller og karbonader
+2091,27009,1735,"Kylling, kalkun og and"
+2092,27712,1871,Frukt
+2093,27809,1885,Ferdigretter
+2094,27854,1904,Frukt
+2095,28282,2006,Røkt og gravet fisk
+2096,26829,1708,Middagsbaser
+2097,27142,1755,Kjøttboller og karbonader
+2098,15151,926,Ferdigretter
+2099,27839,1896,Sauser
+2100,28278,2004,Frossen fisk
+2101,28298,2015,Fersk fisk
+2102,28500,2047,Ris og gryn
+2103,28652,2058,Smør og margarin
+2104,28665,2062,Sauser
+2105,28719,2076,Ost
+2106,29003,2106,Dessert
+2107,29671,2231,Taco og TexMex
+2108,29714,2247,Fiskekaker og fiskepudding
+2109,28653,2059,Yoghurt
+2110,29150,2130,"Ketchup, sennep og dressinger"
+2111,29552,2199,Middagsbaser
+2112,29767,2279,"Frø, nøtter og tørket frukt"
+2113,28744,2081,Kjøtt- og kyllingpålegg
+2114,29024,2112,Asiatisk
+2115,29172,2141,Majones og tubepålegg
+2116,29325,2170,Oljer og eddik
+2117,29626,2221,Middagstilbehør
+2118,29163,2139,Spekemat og salami
+2119,29177,2143,Hamburgere
+2120,29585,2208,"Frø, nøtter og tørket frukt"
+2121,29687,2243,Krydder og buljong
+2122,29748,2264,Ris og gryn
+2123,29771,2283,"Frø, nøtter og tørket frukt"
+2124,25703,1563,Svin
+2125,29230,2157,Sauser
+2126,29668,2228,Knekkebrød
+2127,29688,2244,Krydder og buljong
+2128,25286,1519,Fryst og langtidsholdbar
+2129,26100,1608,Salat og kål
+2130,29211,2150,Taco og TexMex
+2131,29502,2189,Yoghurt
+2132,29594,2214,Grønnsaker
+2133,25710,1565,Dessert
+2134,28916,2101,"Lomper, pølse- og hamburgerbrød"
+2135,29761,2275,Ris og gryn
+2136,25704,1564,Svin
+2137,25801,1571,Storfe og kalv
+2138,30277,2333,Pizza
+2139,31210,2509,Fryst og langtidsholdbar
+2140,31230,2519,Hamburgere
+2141,31084,2476,Middagstilbehør
+2142,31360,2571,Yoghurt
+2143,31663,2653,Pasta og nudler
+2144,30050,2293,Fersk fisk
+2145,30515,2373,Plantebasert drikke
+2146,30604,2379,Asiatisk
+2147,31032,2441,Hamburgere
+2148,31076,2471,Middagstilbehør
+2149,31229,2518,Kjøttboller og karbonader
+2150,31310,2556,Pizza
+2151,31520,2606,Syltetøy
+2152,31809,2689,Skalldyr
+2153,30249,2321,Pasta og nudler
+2154,31113,2487,Fryst frukt og grønt
+2155,31228,2517,Taco og TexMex
+2156,31526,2612,Svin
+2157,31621,2637,Middagstilbehør
+2158,31648,2648,Middag og tilbehør
+2159,31731,2681,Yoghurt
+2160,30366,2340,Knekkebrød
+2161,31117,2490,Fryst frukt og grønt
+2162,31254,2536,Spekemat og salami
+2163,31417,2582,Sjokolade
+2164,31503,2601,Mel og gryn
+2165,31641,2645,Pizza
+2166,31681,2663,Hermetisert sjømat
+2167,31704,2673,Ost
+2168,30379,2341,Sauser
+2169,30665,2387,Kjøtt- og kyllingpålegg
+2170,30687,2389,Spesialoster
+2171,31066,2468,Brus
+2172,31195,2507,Hermetisert frukt og grønt
+2173,31396,2578,Fryst og langtidsholdbar
+2174,31460,2588,Spekemat og salami
+2175,27780,1880,Grønnsaker
+2176,30399,2346,Asiatisk
+2177,30911,2426,Fiskekaker og fiskepudding
+2178,31038,2446,Knekkebrød
+2179,31052,2456,Kjøtt- og kyllingpålegg
+2180,31087,2479,Middagstilbehør
+2181,31332,2563,Melk
+2182,31661,2651,Pasta og nudler
+2183,32085,2725,Brød til middag
+2184,30270,2331,Yoghurt
+0,30778,2407,Middagstilbehør
+1,31293,2546,Taco og TexMex
+2,31638,2642,Pizza
+3,31677,2659,Kjøttdeig og karbonadedeig
+4,26878,1717,Pasta og nudler
+5,27038,1744,Pølser
+6,27064,1753,Fryst og langtidsholdbar
+7,27165,1762,Frukt
+8,27169,1766,Frukt
+9,28359,2034,Fryst og langtidsholdbar
+10,26869,1714,Sauser
+11,26952,1723,Frukt
+12,27634,1842,Taco og TexMex
+13,28195,1985,Smør og margarin
+14,27213,1771,Asiatisk
+15,27364,1792,Ost
+16,27480,1804,Knekkebrød
+17,27790,1881,Ferdigretter
+18,28147,1969,Spesialoster
+19,28230,1989,Nøtter
+20,28280,2005,Skalldyr
+21,27662,1854,Kjeks
+22,27883,1911,Kjøtt- og kyllingpålegg
+23,28082,1947,Yoghurt
+24,28092,1950,Fiskekaker og fiskepudding
+25,26762,1703,"Frø, nøtter og tørket frukt"
+26,26854,1709,Fløte og rømmeprodukter
+27,27011,1737,"Kylling, kalkun og and"
+28,27486,1808,Sauser
+29,27615,1835,Trening
+30,27651,1852,Kjøtt- og kyllingpålegg
+31,26075,1601,Storfe og kalv
+32,27861,1906,"Kylling, kalkun og and"
+33,28491,2045,Krydder og buljong
+34,28549,2055,Kjøttdeig og karbonadedeig
+35,29025,2113,Asiatisk
+36,29471,2183,"Lomper, pølse- og hamburgerbrød"
+37,29472,2184,"Lomper, pølse- og hamburgerbrød"
+38,29685,2242,Krydder og buljong
+39,29734,2252,Frukt
+40,29742,2259,"Frø, nøtter og tørket frukt"
+41,29770,2282,Nøtter
+42,25386,1531,Middagstilbehør
+43,29751,2266,"Frø, nøtter og tørket frukt"
+44,25383,1530,Fløte og rømmeprodukter
+45,29070,2118,Oljer og eddik
+46,29338,2177,Spekemat og salami
+47,29753,2267,Ris og gryn
+48,29774,2285,Nøtter
+49,25381,1529,Yoghurt
+50,28998,2103,Kjøttdeig og karbonadedeig
+51,29234,2161,Pasta og nudler
+52,29334,2176,Asiatisk
+53,29606,2216,Asiatisk
+54,29644,2225,Nøtter
+55,29008,2110,Egg
+56,29145,2126,Frossen fisk
+57,29204,2145,Asiatisk
+58,29480,2186,Bacon og smårettskinke
+59,29586,2209,"Frø, nøtter og tørket frukt"
+60,29772,2284,"Frø, nøtter og tørket frukt"
+61,25800,1570,Storfe og kalv
+62,26578,1683,Asiatisk
+63,29677,2234,Krydder og buljong
+64,29168,2140,Dessert
+65,29747,2263,Nøtter
+66,28508,2049,Fryst og langtidsholdbar
+67,28702,2068,Sauser
+68,29213,2152,Brød til middag
+69,29462,2182,Hamburgere
+70,29608,2217,Fryst og langtidsholdbar
+71,30245,2319,Oljer og eddik
+72,30269,2330,Yoghurt
+73,31294,2547,Taco og TexMex
+74,31519,2605,Syltetøy
+75,31664,2654,Pasta og nudler
+76,30920,2428,Røkt og gravet fisk
+77,31044,2450,"Kylling, kalkun og and"
+78,31491,2594,"Lomper, pølse- og hamburgerbrød"
+79,31544,2619,Ferdigmikser
+80,30393,2344,Asiatisk
+81,31110,2484,Fryst og langtidsholdbar
+82,31476,2590,Kjøttdeig og karbonadedeig
+83,31573,2620,Fryst frukt og grønt
+84,31940,2712,Sauser
+85,30489,2362,Knekkebrød
+86,31149,2495,Pølser
+87,31597,2624,Hamburgere
+88,30498,2365,Fløte og rømmeprodukter
+89,30907,2424,Yoghurt
+90,31045,2451,Kjøtt- og kyllingpålegg
+91,31080,2474,Middagstilbehør
+92,31613,2632,Hamburgere
+93,31617,2634,Chips og snacks
+94,31651,2650,Fersk fisk
+95,31680,2662,Hermetisert sjømat
+96,31730,2680,Yoghurt
+97,31893,2703,Pølser
+98,30766,2402,Pølser
+99,27048,1750,Grønnsaker
+100,31389,2576,Yoghurt
+101,31440,2585,Bacon og smårettskinke
+102,31639,2643,Pizza
+103,32082,2723,Sauser
+104,32083,2724,Pizza
+105,30513,2372,Plantebasert drikke
+106,30652,2381,Håndverksbakeri
+107,30656,2382,Fersk fisk
+108,31036,2444,Hamburgere
+109,31581,2622,Saft
+110,31599,2625,Sjokolade
+111,31606,2628,Pølser
+112,27151,1759,Hermetisert frukt og grønt
+113,27607,1833,Sauser
+114,23532,1337,Grønnsaker
+115,27923,1915,Bacon og smårettskinke
+116,28258,1997,Ost
+117,28273,2002,Smoothies og yoghurt
+118,27014,1740,"Kylling, kalkun og and"
+119,27633,1841,Taco og TexMex
+120,27704,1864,Salat og kål
+121,27823,1889,Fersk fisk
+122,27841,1898,Kjøtt- og kyllingpålegg
+123,27880,1909,"Kylling, kalkun og and"
+124,28076,1945,Melk
+125,28232,1990,Pasta og nudler
+126,28235,1992,Fryst frukt og grønt
+127,26760,1701,"Frø, nøtter og tørket frukt"
+128,27006,1732,Ris og gryn
+129,26365,1652,"Lomper, pølse- og hamburgerbrød"
+130,27625,1838,Grønnsaker
+131,27709,1869,Salat og kål
+132,27707,1867,Salat og kål
+133,27945,1919,Pølser
+134,28146,1968,Spesialoster
+135,27961,1921,Knekkebrød
+136,28168,1979,Middagsbaser
+137,28266,2000,Kjøttboller og karbonader
+138,28316,2020,Spekemat og salami
+139,28684,2064,Yoghurt
+140,28868,2093,Egg
+141,29506,2190,"Frø, nøtter og tørket frukt"
+142,29086,2119,Knekkebrød
+143,29144,2125,Frossen fisk
+144,29519,2193,Hermetisert frukt og grønt
+145,29755,2269,Plantebasert drikke
+146,25217,1504,Pizza
+147,29974,2290,"Kylling, kalkun og and"
+148,29152,2132,"Ketchup, sennep og dressinger"
+149,29526,2195,Hamburgere
+150,29682,2239,Krydder og buljong
+151,29741,2258,"Frø, nøtter og tørket frukt"
+152,25802,1572,Storfe og kalv
+153,28711,2071,Spesialoster
+154,29340,2178,Ost
+155,29507,2191,Chips og snacks
+156,29570,2202,Pasta og nudler
+157,29343,2179,Middagsbaser
+158,29737,2254,"Frø, nøtter og tørket frukt"
+159,29750,2265,"Frø, nøtter og tørket frukt"
+160,29623,2220,Smør og margarin
+161,28792,2088,Ost
+162,29518,2192,Hermetisert frukt og grønt
+163,29645,2226,Nøtter
+164,25218,1505,Pizza
+165,28869,2094,Egg
+166,29684,2241,Krydder og buljong
+167,29738,2255,"Frø, nøtter og tørket frukt"
+168,25701,1562,Lam og vilt
+169,31170,2498,Salat og kål
+170,31496,2597,Bacon og smårettskinke
+171,31509,2602,Sjokolade
+172,31535,2614,Frukt
+173,31647,2647,Middag og tilbehør
+174,31033,2442,Hamburgere
+175,31242,2530,"Kylling, kalkun og and"
+176,31699,2672,Bacon og smårettskinke
+177,30304,2336,Spesialoster
+178,30923,2429,Skalldyr
+179,29986,2292,Frukt
+180,31361,2572,Yoghurt
+181,31498,2598,Bacon og smårettskinke
+182,31521,2607,Syltetøy
+183,31662,2652,Pasta og nudler
+184,31845,2696,Hamburgere
+185,30457,2352,Grønnsaker
+186,30875,2418,Sauser
+187,31048,2453,Iskrem i boks
+188,31336,2564,Melk
+189,31665,2655,Ris og gryn
+190,30236,2316,Pizza
+191,30912,2427,Fiskekaker og fiskepudding
+192,30929,2435,Ferdigretter
+193,31261,2542,Mel og gryn
+194,31477,2591,Kjøttdeig og karbonadedeig
+195,31515,2603,Saft
+196,31536,2615,Spesialoster
+197,31645,2646,Asiatisk
+198,30905,2423,Kjøtt- og kyllingpålegg
+199,31308,2555,Ferdigretter
+200,31363,2574,Yoghurt
+201,31695,2670,Pølser
+202,32079,2721,Pasta og nudler
+203,32080,2722,Sauser
+204,30251,2323,Fryst og langtidsholdbar
+205,30710,2391,"Frø, nøtter og tørket frukt"
+206,31079,2473,Sauser
+207,31240,2528,Kjøttdeig og karbonadedeig
+208,31321,2561,Middagsbaser
+209,31388,2575,Yoghurt
+210,31524,2610,Svin
+211,31537,2616,Spesialoster
+212,31607,2629,Sjokolade
+213,31675,2658,Egg
+214,27047,1749,Frukt
+215,27199,1768,Asiatisk
+216,27765,1874,Asiatisk
+217,28040,1934,Yoghurt
+218,28081,1946,Yoghurt
+219,28197,1986,Ost
+220,27489,1811,Pasta og nudler
+221,27652,1853,"Kylling, kalkun og and"
+222,28086,1948,Nøtter
+223,28325,2024,Ferdigretter
+224,26816,1705,Grønnsaker
+225,27010,1736,"Kylling, kalkun og and"
+226,27648,1849,Kjøttboller og karbonader
+227,28005,1930,Ferdigretter
+228,28142,1966,Ost
+229,28290,2011,Middagstilbehør
+230,28360,2035,Fryst og langtidsholdbar
+231,28496,2046,Brød til middag
+232,26072,1598,Storfe og kalv
+233,27924,1916,Taco og TexMex
+234,28277,2003,Frossen fisk
+235,28301,2016,Lam og vilt
+236,28390,2038,Middagsbaser
+237,27429,1799,Hamburgere
+238,27505,1816,Hamburgere
+239,27696,1857,Ferdigkuttet frukt og grønt
+240,27759,1873,Fryst og langtidsholdbar
+241,28501,2048,Hermetisert frukt og grønt
+242,28654,2060,Yoghurt
+243,28686,2066,Ferdigretter
+244,29146,2127,Middagstilbehør
+245,29153,2133,"Ketchup, sennep og dressinger"
+246,29450,2180,Fryst og langtidsholdbar
+247,29558,2201,Juice og fruktdrikker
+248,29683,2240,Krydder og buljong
+249,29744,2260,"Frø, nøtter og tørket frukt"
+250,28511,2050,Knekkebrød
+251,28708,2069,Ost
+252,28920,2102,Sauser
+253,29757,2271,Hermetisert frukt og grønt
+254,29768,2280,"Frø, nøtter og tørket frukt"
+255,25311,1522,Ferdigretter
+256,29984,2291,Spesialoster
+257,29967,2287,Smør og margarin
+258,28709,2070,Spesialoster
+259,28740,2079,Ferdigretter
+260,29088,2121,Knekkebrød
+261,29233,2160,Pasta og nudler
+262,29321,2168,Asiatisk
+263,29730,2250,Skalldyr
+264,29754,2268,Plantebasert drikke
+265,29969,2289,Røkt og gravet fisk
+266,28769,2083,Ost
+267,28870,2095,Egg
+268,29760,2274,"Frø, nøtter og tørket frukt"
+269,28772,2085,Hermetisert sjømat
+270,28799,2090,"Ketchup, sennep og dressinger"
+271,29004,2107,Dessert
+272,25227,1508,Ris og gryn
+273,25278,1517,Bacon og smårettskinke
+274,25284,1518,Pizza
+275,25882,1576,Fryst og langtidsholdbar
+276,30772,2405,Ferdigretter
+277,31247,2532,Pasta og nudler
+278,31493,2595,Juice og fruktdrikker
+279,31719,2675,Pizza
+280,31905,2708,Pizza
+281,30487,2360,Oljer og eddik
+282,30768,2404,Sauser
+283,31407,2580,Hamburgere
+284,31772,2684,Spesialoster
+285,31991,2715,Yoghurt
+286,31111,2485,Fryst og langtidsholdbar
+287,31301,2552,Knekkebrød
+288,31494,2596,Juice og fruktdrikker
+289,31522,2608,Syltetøy
+290,31070,2470,Pasta og nudler
+291,30767,2403,Sauser
+292,30878,2421,Hermetisert frukt og grønt
+293,31053,2457,Kjøtt- og kyllingpålegg
+294,31114,2488,Fryst frukt og grønt
+295,31147,2493,Kjøttboller og karbonader
+296,31300,2551,Yoghurt
+297,31602,2627,Frossen fisk
+298,31687,2668,Pasta og nudler
+299,31844,2695,Kjøttboller og karbonader
+300,31901,2705,Lam og vilt
+301,30260,2326,Kjøtt- og kyllingpålegg
+302,30385,2342,Skalldyr
+303,31050,2455,Iskrem i boks
+304,31055,2459,Kjøtt- og kyllingpålegg
+305,31808,2688,Middagsbaser
+306,31923,2710,Hamburgere
+307,30762,2401,Storfe og kalv
+308,30510,2370,Sauser
+309,30755,2397,Lam og vilt
+310,30924,2430,Asiatisk
+311,31041,2449,"Ketchup, sennep og dressinger"
+312,31085,2477,Hermetisert frukt og grønt
+313,31236,2525,Fryst og langtidsholdbar
+314,31238,2527,Kjøttdeig og karbonadedeig
+315,31807,2687,Yoghurt
+316,30237,2317,Pizza
+317,30664,2386,Kjøtt- og kyllingpålegg
+318,30733,2393,Yoghurt
+319,30869,2414,Oljer og eddik
+320,31031,2440,Grønnsaker
+321,31057,2461,Kjøtt- og kyllingpålegg
+322,31257,2539,Spekemat og salami
+323,31344,2568,Spekemat og salami
+324,31538,2617,Spesialoster
+325,31682,2664,Middagstilbehør
+326,26867,1712,Ferdigretter
+327,26995,1730,Pizza
+328,27644,1845,Pølser
+329,27645,1846,Pølser
+330,27842,1899,Kjøtt- og kyllingpålegg
+331,27916,1914,Kjøttboller og karbonader
+332,27168,1765,Frukt
+333,27274,1786,Nøtter
+334,27776,1879,Frukt
+335,27944,1918,Pølser
+336,28194,1984,Ost
+337,28311,2017,Ferdigretter
+338,28341,2028,Melk
+339,28344,2031,Plantebasert drikke
+340,26729,1697,Ferdigretter
+341,27019,1742,Frukt
+342,27246,1780,Fersk fisk
+343,26274,1638,Salat og kål
+344,28426,2040,Pasta og nudler
+345,27516,1820,Frossen fisk
+346,27833,1891,Sauser
+347,27007,1733,"Kylling, kalkun og and"
+348,27626,1839,Grønnsaker
+349,27697,1858,Salat og kål
+350,28064,1939,Frukt
+351,28175,1982,Taco og TexMex
+352,28353,2032,Yoghurt
+353,29547,2197,Ris og gryn
+354,29681,2238,Krydder og buljong
+355,29548,2198,Ris og gryn
+356,29576,2203,Krydder og buljong
+357,29739,2256,"Frø, nøtter og tørket frukt"
+358,28795,2089,"Ketchup, sennep og dressinger"
+359,29218,2153,Knekkebrød
+360,29314,2166,Asiatisk
+361,29674,2233,Krydder og buljong
+362,29736,2253,"Frø, nøtter og tørket frukt"
+363,29227,2156,Pølser
+364,29454,2181,Kjeks
+365,29499,2187,Storfe og kalv
+366,29670,2230,Krydder og buljong
+367,25295,1520,Yoghurt
+368,28536,2052,"Lomper, pølse- og hamburgerbrød"
+369,28668,2063,Ferdigretter
+370,29033,2115,Asiatisk
+371,29087,2120,Knekkebrød
+372,29210,2149,Taco og TexMex
+373,29622,2219,Hamburgere
+374,29731,2251,Skalldyr
+375,29968,2288,Ferdigretter
+376,28539,2053,Fryst og langtidsholdbar
+377,29158,2135,Kjøtt- og kyllingpålegg
+378,26101,1609,Grønnsaker
+379,28914,2100,"Lomper, pølse- og hamburgerbrød"
+380,29050,2116,Dessert
+381,29775,2286,"Frø, nøtter og tørket frukt"
+382,30395,2345,Asiatisk
+383,30495,2364,Fryst og langtidsholdbar
+384,31118,2491,Spesialoster
+385,31728,2679,Pizza
+386,30658,2383,Fersk fisk
+387,31178,2502,Skalldyr
+388,31256,2538,Spekemat og salami
+389,31297,2550,Taco og TexMex
+390,31611,2631,Chips og snacks
+391,30698,2390,Pizza
+392,30748,2396,Ost
+393,31049,2454,Iskrem i boks
+394,31302,2553,Pizza
+395,31650,2649,Fersk fisk
+396,31842,2694,Oljer og eddik
+397,31319,2559,Mat og drikke
+398,31329,2562,Melk
+399,30253,2324,Salat og kål
+400,30500,2366,Yoghurt
+401,31056,2460,Kjøtt- og kyllingpålegg
+402,31077,2472,Middagstilbehør
+403,31248,2533,Pasta og nudler
+404,30238,2318,Asiatisk
+405,30448,2351,Ferdig påsmurt
+406,31697,2671,Pølser
+407,31929,2711,Brus
+408,32057,2720,"Frø, nøtter og tørket frukt"
+409,31058,2462,Kjøtt- og kyllingpålegg
+410,31184,2503,Ferdigretter
+411,31216,2513,Pizza
+412,31339,2565,Ost
+413,31416,2581,Sjokolade
+414,31499,2599,Bacon og smårettskinke
+415,31596,2623,Ferdigretter
+416,31632,2639,Pizza
+417,32043,2717,Asiatisk
+418,30843,2408,Frossen fisk
+419,31143,2492,Grønnsaker
+420,31220,2516,Yoghurt
+421,31307,2554,Pizza
+422,28154,1971,Krydder og buljong
+423,31892,2702,Pølser
+424,32433,2790,Fløte og rømmeprodukter
+425,32483,2814,"Kylling, kalkun og and"
+426,32771,2873,Fryst frukt og grønt
+427,32882,2904,Svin
+428,33204,2960,Fiskekaker og fiskepudding
+429,33504,2981,Grønnsaker
+430,33788,2985,Frukt
+431,33874,2987,Frossen fisk
+432,32297,2765,Ferdigretter
+433,32305,2769,Pølser
+434,32452,2803,Svin
+435,32866,2895,Yoghurt
+436,32867,2896,Yoghurt
+437,32908,2910,Ferdigretter
+438,32971,2924,Krydder og buljong
+439,32555,2836,Yoghurt
+440,33156,2945,Brus
+441,32552,2833,Yoghurt
+442,32756,2868,Sauser
+443,32683,2851,Pizza
+444,32793,2877,Plantebasert drikke
+445,32102,2727,Salat og kål
+446,32532,2819,Middagstilbehør
+447,33045,2928,Frossen fisk
+448,33202,2958,Fiskekaker og fiskepudding
+449,32202,2751,Frossen fisk
+450,32540,2825,Kjøttboller og karbonader
+451,32747,2865,Pizza
+452,32717,2854,Nøtter
+453,33140,2935,Kjøtt- og kyllingpålegg
+454,33332,2972,Kjøttdeig og karbonadedeig
+455,31889,2700,Kjøttboller og karbonader
+456,30502,2368,Fløte og rømmeprodukter
+457,31313,2557,Ferdigretter
+458,31787,2685,Grønnsaker
+459,32492,2816,Oljer og eddik
+460,32770,2872,Frossen fisk
+461,33180,2951,Svin
+462,32292,2760,Ferdigretter
+463,32847,2891,Majones og tubepålegg
+464,32877,2900,Ost
+465,33354,2974,Bacon og smårettskinke
+466,32785,2876,Plantebasert drikke
+467,32909,2911,Ferdigretter
+468,33361,2976,"Ketchup, sennep og dressinger"
+469,32347,2771,Fryst og langtidsholdbar
+470,32459,2806,Taco og TexMex
+471,32539,2824,Kjøttboller og karbonader
+472,32892,2909,Svin
+473,32918,2913,Spesialoster
+474,32880,2903,Svin
+475,33222,2966,"Kylling, kalkun og and"
+476,32671,2847,"Lomper, pølse- og hamburgerbrød"
+477,32879,2902,Spesialoster
+478,33061,2929,Hamburgere
+479,32376,2776,Pølser
+480,32672,2848,"Lomper, pølse- og hamburgerbrød"
+481,32740,2861,Yoghurt
+482,32267,2757,Spekemat og salami
+483,32536,2821,Frukt
+484,32542,2827,Svin
+485,32833,2886,"Kylling, kalkun og and"
+486,30503,2369,Salat og kål
+487,33138,2933,Kjøtt- og kyllingpålegg
+488,31982,2714,Pasta og nudler
+489,30246,2320,Hermetisert frukt og grønt
+490,30250,2322,Nøtter
+491,30256,2325,Håndverksbakeri
+492,30391,2343,Ferdigretter
+493,31060,2464,Kjøtt- og kyllingpålegg
+494,31086,2478,Middagstilbehør
+495,31246,2531,Pasta og nudler
+496,31262,2543,Mel og gryn
+497,31265,2544,Juice og fruktdrikker
+498,31347,2570,Spekemat og salami
+499,31406,2579,Svin
+500,31683,2665,Ferdigretter
+501,31904,2707,Pizza
+502,32299,2767,Ferdigretter
+503,32878,2901,Smør og margarin
+504,33151,2940,Fryst frukt og grønt
+505,33157,2946,Brus
+506,32295,2763,Ferdigretter
+507,32444,2798,Brus
+508,32830,2884,Bacon og smårettskinke
+509,32891,2908,Middagstilbehør
+510,32981,2927,"Ketchup, sennep og dressinger"
+511,25880,1575,Fryst og langtidsholdbar
+512,33153,2942,Grønnsaker
+513,32482,2813,"Kylling, kalkun og and"
+514,32827,2881,Fryst og langtidsholdbar
+515,33187,2955,Sauser
+516,33260,2970,Krydder og buljong
+517,32105,2730,Majones og tubepålegg
+518,32356,2774,Lam og vilt
+519,32380,2778,Juice og fruktdrikker
+520,32463,2808,Sauser
+521,32838,2889,"Kylling, kalkun og and"
+522,33238,2967,Middagstilbehør
+523,33220,2964,"Lomper, pølse- og hamburgerbrød"
+524,32111,2735,"Lomper, pølse- og hamburgerbrød"
+525,32391,2784,Spekemat og salami
+526,32538,2823,Spekemat og salami
+527,32541,2826,Svin
+528,32298,2766,Ferdigretter
+529,32386,2782,"Ketchup, sennep og dressinger"
+530,32448,2801,Svin
+531,32454,2805,Sauser
+532,32464,2809,Sauser
+533,32912,2912,Ferdigretter
+534,33154,2943,Grønnsaker
+535,33491,2980,Svin
+536,34072,2988,Knekkebrød
+537,30119,2310,Grønnsaker
+538,30071,2300,"Kylling, kalkun og and"
+539,30222,2314,Fiskekaker og fiskepudding
+540,30486,2359,Asiatisk
+541,30872,2417,Middagsbaser
+542,31295,2548,Taco og TexMex
+543,31461,2589,Spekemat og salami
+544,31633,2640,Pizza
+545,32110,2734,"Lomper, pølse- og hamburgerbrød"
+546,32546,2830,Pølser
+547,32826,2880,Pølser
+548,33139,2934,Kjøtt- og kyllingpålegg
+549,32107,2732,Asiatisk
+550,32256,2755,Spekemat og salami
+551,32385,2781,Hamburgere
+552,32462,2807,Sauser
+553,32334,2770,Fersk fisk
+554,32399,2788,Kjøtt- og kyllingpålegg
+555,33203,2959,Fiskekaker og fiskepudding
+556,33827,2986,Taco og TexMex
+557,32109,2733,Hamburgere
+558,33143,2937,Pølser
+559,33165,2948,Knekkebrød
+560,32136,2744,Spesialoster
+561,32471,2811,Fersk fisk
+562,32669,2845,"Lomper, pølse- og hamburgerbrød"
+563,32869,2898,Dessert
+564,32099,2726,Fryst og langtidsholdbar
+565,33370,2978,Pizza
+566,32396,2787,Bacon og smårettskinke
+567,32442,2797,Ost
+568,32521,2817,Fiskekaker og fiskepudding
+569,32832,2885,Spekemat og salami
+570,32944,2919,Taco og TexMex
+571,31064,2466,Juice og fruktdrikker
+572,32104,2729,Majones og tubepålegg
+573,32490,2815,Yoghurt
+574,33179,2950,Svin
+575,33536,2983,Asiatisk
+576,34290,2991,Frossen fisk
+577,34524,2993,Frukt
+578,30123,2311,Asiatisk
+579,31837,2691,Middagstilbehør
+580,30264,2327,Frossen fisk
+581,30777,2406,Grønnsaker
+582,31237,2526,Fryst og langtidsholdbar
+583,31241,2529,"Kylling, kalkun og and"
+584,31255,2537,Spekemat og salami
+585,27055,1751,"Frø, nøtter og tørket frukt"
+586,31390,2577,Yoghurt
+587,31516,2604,Saft
+588,31679,2661,Hermetisert sjømat
+589,31981,2713,Pasta og nudler
+590,32296,2764,Ferdigretter
+591,32349,2772,Grønnsaker
+592,32554,2835,Yoghurt
+593,33184,2954,Svin
+594,32293,2761,Ferdigretter
+595,32453,2804,Sauser
+596,32553,2834,Yoghurt
+597,32204,2753,Pasta og nudler
+598,32543,2828,Bacon og smårettskinke
+599,33221,2965,"Lomper, pølse- og hamburgerbrød"
+600,33365,2977,Svin
+601,32392,2785,Spekemat og salami
+602,32812,2879,Pizza
+603,29592,2212,Sauser
+604,32551,2832,Ferdig påsmurt
+605,32576,2839,Egg
+606,32676,2849,"Kylling, kalkun og and"
+607,32703,2852,Middagsbaser
+608,32769,2871,Frossen fisk
+609,33158,2947,Brus
+610,33177,2949,Svin
+611,32135,2743,Ost
+612,32144,2745,Pølser
+613,32254,2754,Kjøtt- og kyllingpålegg
+614,32451,2802,Storfe og kalv
+615,32537,2822,Kjøtt- og kyllingpålegg
+616,32845,2890,"Kylling, kalkun og and"
+617,32133,2741,Yoghurt
+618,32203,2752,Ost
+619,32277,2758,Grønnsaker
+620,32754,2867,Pizza
+621,32890,2907,Middagstilbehør
+622,30054,2294,Ferdigretter
+623,30871,2416,Sauser
+624,31186,2504,Ost
+625,31187,2505,Ost
+626,31479,2592,Pølser
+627,32031,2716,Asiatisk
+628,32945,2920,Kjøttboller og karbonader
+629,33205,2961,Fiskekaker og fiskepudding
+630,33787,2984,Frukt
+631,32388,2783,Majones og tubepålegg
+632,32533,2820,Middagstilbehør
+633,32550,2831,Ferdigretter
+634,32738,2859,Yoghurt
+635,32745,2864,Pizza
+636,32811,2878,Pizza
+637,32923,2915,Sauser
+638,33102,2932,Taco og TexMex
+639,33255,2969,Krydder og buljong
+640,32435,2792,Yoghurt
+641,32733,2857,Ost
+642,32739,2860,Yoghurt
+643,33328,2971,"Kylling, kalkun og and"
+644,32119,2738,"Kylling, kalkun og and"
+645,32278,2759,Pølser
+646,32580,2843,Spekemat og salami
+647,32374,2775,Grønnsaker
+648,33200,2956,Fiskekaker og fiskepudding
+649,32670,2846,"Lomper, pølse- og hamburgerbrød"
+650,32743,2863,Yoghurt
+651,29000,2104,Sauser
+652,32134,2742,Yoghurt
+653,32704,2853,Pizza
+654,32865,2894,Melk
+655,33201,2957,Fiskekaker og fiskepudding
+656,32304,2768,Pølser
+657,32481,2812,Kjøttdeig og karbonadedeig
+658,32668,2844,Ost
+659,32834,2887,"Kylling, kalkun og and"
+660,32849,2893,Kaffe
+661,33207,2963,Fiskekaker og fiskepudding
+662,32121,2739,Ost
+663,32784,2875,Plantebasert drikke
+664,32947,2921,Kjøtt- og kyllingpålegg
+665,33506,2982,Spesialoster
+666,34525,2994,Grønnsaker
+667,30077,2304,Skalldyr
+668,30518,2376,Salat og kål
+669,30319,2338,Melk
+670,30846,2409,Knekkebrød
+671,30927,2433,Fiskekaker og fiskepudding
+672,30935,2438,"Kylling, kalkun og and"
+673,31037,2445,Ferdig påsmurt
+674,31219,2515,Yoghurt
+675,32446,2799,Ferdigretter
+676,32447,2800,Ferdigretter
+677,32531,2818,Middagstilbehør
+678,32734,2858,Ost
+679,32742,2862,Yoghurt
+680,32437,2794,Pizza
+681,32926,2918,Asiatisk
+682,31212,2510,Melk
+683,32556,2837,Yoghurt
+684,32720,2855,Ferdigretter
+685,32829,2883,Fryst og langtidsholdbar
+686,32868,2897,Yoghurt
+687,33155,2944,Brus
+688,32434,2791,Yoghurt
+689,32438,2795,Pizza
+690,32194,2749,"Lomper, pølse- og hamburgerbrød"
+691,32195,2750,"Lomper, pølse- og hamburgerbrød"
+692,30516,2374,Fløte og rømmeprodukter
+693,33150,2939,Grønnsaker
+694,33206,2962,Fiskekaker og fiskepudding
+695,33359,2975,Krydder og buljong
+696,32131,2740,Fløte og rømmeprodukter
+697,32578,2841,"Kylling, kalkun og and"
+698,32579,2842,"Kylling, kalkun og and"
+699,32772,2874,Taco og TexMex
+700,33062,2930,Pølser
+701,32103,2728,Majones og tubepålegg
+702,32266,2756,Spekemat og salami
+703,32379,2777,Juice og fruktdrikker
+704,32432,2789,Yoghurt
+705,32577,2840,Egg
+706,32753,2866,Taco og TexMex
+707,32888,2905,Fryst frukt og grønt
+708,32980,2926,Sauser
+709,33141,2936,Kjøtt- og kyllingpålegg
+710,32168,2746,Frukt
+711,32170,2748,Grønnsaker
+712,34080,2989,"Lomper, pølse- og hamburgerbrød"
+713,34679,2996,"Lomper, pølse- og hamburgerbrød"
+714,31887,2698,Kjøttboller og karbonader
+715,30660,2385,Fersk fisk
+716,30925,2431,Fiskekaker og fiskepudding
+717,31039,2447,Ferdig påsmurt
+718,31150,2496,Hamburgere
+719,31291,2545,Hermetisert frukt og grønt
+720,27852,1902,Frukt
+721,28155,1972,Krydder og buljong
+722,31692,2669,Pasta og nudler
+723,31903,2706,Pizza
+724,33091,2931,Plantebasert drikke
+725,32294,2762,Ferdigretter
+726,32922,2914,Sauser
+727,32436,2793,Melk
+728,32439,2796,Pizza
+729,32924,2916,Fryst og langtidsholdbar
+730,32962,2922,Smør og margarin
+731,32106,2731,Sauser
+732,32383,2780,"Ketchup, sennep og dressinger"
+733,32678,2850,Yoghurt
+734,32726,2856,Hamburgere
+735,32768,2870,Sauser
+736,32925,2917,Fryst og langtidsholdbar
+737,32117,2737,Kjøttdeig og karbonadedeig
+738,32351,2773,Skalldyr
+739,32979,2925,Sauser
+740,30517,2375,Salat og kål
+741,25803,1573,Storfe og kalv
+742,32169,2747,Grønnsaker
+743,32382,2779,"Ketchup, sennep og dressinger"
+744,32394,2786,Spekemat og salami
+745,32568,2838,Yoghurt
+746,32828,2882,Fryst og langtidsholdbar
+747,32837,2888,"Kylling, kalkun og and"
+748,32874,2899,Yoghurt
+749,32889,2906,"Ketchup, sennep og dressinger"
+750,33182,2953,Lam og vilt
+751,33248,2968,Ferdigretter
+752,33340,2973,Melk
+753,33421,2979,Svin
+754,32116,2736,"Ketchup, sennep og dressinger"
+755,32767,2869,Kjøttboller og karbonader
+756,32970,2923,Krydder og buljong
+757,33152,2941,Grønnsaker
+758,32545,2829,Pølser
+759,33149,2938,Frukt
+760,34289,2990,Frossen fisk
+761,34642,2995,"Lomper, pølse- og hamburgerbrød"
+762,36618,2999,Frukt
+763,30066,2297,"Kylling, kalkun og and"
+764,30400,2347,Asiatisk
+765,30361,2339,Taco og TexMex
+766,32848,2892,Sauser
+767,30073,2302,Spekemat og salami
+768,30081,2306,Spekemat og salami
+769,30080,2305,Middagstilbehør
+770,36515,2997,Bacon og smårettskinke
+771,30089,2308,Taco og TexMex
+772,30131,2312,Skalldyr
+773,30072,2301,Plantebasert drikke
+774,30083,2307,Middagsbaser
+775,30070,2299,Plantebasert drikke
+776,27840,1897,Frukt
+777,34490,2992,Grønnsaker
+778,30428,2350,Hermetisert frukt og grønt
+779,27632,1840,Texmex
+780,30067,2298,Røkt og gravet fisk
+781,30132,2313,Brød til middag
+782,33181,2952,Storfe og kalv
+783,7,1,"Frø, nøtter og tørket frukt"
+784,1207,173,Kasvipohjaiset tuotteet
+785,36532,2998,Lam og vilt
+786,30056,2295,Svin
+787,30233,2315,Hermetisert frukt og grønt
+788,30402,2348,Frossen fisk
+789,30406,2349,Bacon og smårettskinke
+790,31296,2549,Texmex
+791,36619,3000,Frukt
+792,30076,2303,Ost
+793,30090,2309,Oljer og eddik
+794,30057,2296,Svin
+795,31812,2690,Texmex
+796,26104,1612,Marjat
+0,25225,1506,
+1,31259,2540,
+0,19363,1136,
+0,31432,2584,
+1,8684,609,
+0,27491,1813,
