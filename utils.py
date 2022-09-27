@@ -10,16 +10,24 @@ def load_model():
 
 
 def load_seed_products():
-    with open("dinner_dictionary") as json_file:
+    with open("data/dinner_dictionary.json") as json_file:
         data = json.load(json_file)
+    return data
+
+def load_predictions():
+    with open("data/predictions.json") as json_file:
+        data = json.load(json_file)
+    for k, v in data.items():
+        data[k] = np.array(v)
+    return data
 
 
 def load_products_df():
-    return pd.read_csv("products.csv")
+    return pd.read_csv("data/products.csv")
 
 
 def load_category_mapping():
-    return pd.read_csv("categories.csv")
+    return pd.read_csv("data/categories.csv")
 
 
 def create_idx_to_id_mapping():
